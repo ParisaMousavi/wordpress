@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T12:00:36.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="7GFRUohql1kFC1DKqVMm" version="14.6.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-18T12:01:14.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="7X4I9moExuXM-6MNbg31" version="14.6.13" type="github" pages="3">
   <diagram id="l2CoWgcDXLicpV2M4JhT" name="Page-1">
     <mxGraphModel dx="2249" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,83 @@
         </mxCell>
         <mxCell id="h_u5TLeX4S5GENkp0Ivr-16" value="Each API has its own versionset in APIM instance." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="h_u5TLeX4S5GENkp0Ivr-1">
           <mxGeometry x="-455" y="70" width="330" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AKlsI0VlDO582vPPgc8F" name="Page-3">
+    <mxGraphModel dx="2249" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-0" />
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-1" parent="zHWib-nSl8dmvOJtMiGg-0" />
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-2" value="Global" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=4;verticalAlign=top;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-100" y="40" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-3" value="Product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=4;verticalAlign=top;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-70" y="80" width="560" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-4" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;strokeWidth=4;verticalAlign=top;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-40" y="120" width="500" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-5" value="Operation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;verticalAlign=top;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-10" y="150" width="430" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-6" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="240" as="sourcePoint" />
+            <mxPoint x="570" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-7" value="Inbound" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=14;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-140" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-8" value="Outbound" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=14;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-140" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-9" value="CORS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-70" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-10" value="Rate-Limit" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="-40" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-11" value="Quota" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="60" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-12" value="Validate JWT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="270" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-13" value="IP Filter" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="370" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-14" value="URL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="10" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-15" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="159.5" as="sourcePoint" />
+            <mxPoint x="-140" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-16" value="To backend" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="159.5" as="sourcePoint" />
+            <mxPoint x="650" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-17" value="From backend" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="319" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-18" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="320" as="sourcePoint" />
+            <mxPoint x="-220" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHWib-nSl8dmvOJtMiGg-19" value="Find-replace" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=13;" vertex="1" parent="zHWib-nSl8dmvOJtMiGg-1">
+          <mxGeometry x="10" y="250" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
