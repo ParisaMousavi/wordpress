@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T21:05:33.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UZkpZoqorLuVX3hzkYmU" version="14.7.0" type="github">
-  <diagram id="vaOyanO5EU9TdKgklExl" name="Page-1">
-    <mxGraphModel dx="462" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-05-27T21:20:00.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8UarZxj-gA5SXzIelF5b" version="14.7.0" type="github" pages="2">
+  <diagram id="vaOyanO5EU9TdKgklExl" name="web-app-authorization-steps">
+    <mxGraphModel dx="462" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,29 @@
         </mxCell>
         <mxCell id="0hdjHtVMphRph7XmBgqM-2" value="Authorization" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="150" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Fo4YWTk6VGNQnryRvkFr" name="net-core-identity-architecture">
+    <mxGraphModel dx="462" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-0" />
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-1" parent="5WPZMEff3WhY9ocsbhD3-0" />
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-2" value="ASP.Net Core Razor Pages" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="5WPZMEff3WhY9ocsbhD3-1">
+          <mxGeometry x="50" y="180" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-3" value="Identity Manager&lt;br&gt;SignInManager&amp;lt;TUser&amp;gt;&lt;br&gt;UserManager&amp;lt;TUser&amp;gt;&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5WPZMEff3WhY9ocsbhD3-1">
+          <mxGeometry x="50" y="240" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-4" value="EF Core Identity Store" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5WPZMEff3WhY9ocsbhD3-1">
+          <mxGeometry x="50" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-5" value="SQL Server Database Provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5WPZMEff3WhY9ocsbhD3-1">
+          <mxGeometry x="50" y="360" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5WPZMEff3WhY9ocsbhD3-7" value="Azure SQL Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="5WPZMEff3WhY9ocsbhD3-1">
+          <mxGeometry x="170" y="460" width="48" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
