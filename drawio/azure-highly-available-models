@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T19:19:21.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="zsF6Nq8K2JiStvWnsvYe" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T19:20:30.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="6D0H2C9rhSc1DS1Qu92j" version="14.8.4" type="github">
   <diagram id="L2TXuwGKTiOifBHz4EWC" name="Page-1">
     <mxGraphModel dx="2272" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="Eaq7VbKh-WucKhFLWZ-M-11" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-190" y="40" width="1030" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-12" value="Localized failures" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="340" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-13" value="Regional failures" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="210" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
