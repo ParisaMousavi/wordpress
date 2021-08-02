@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T19:27:55.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="0rh42VjQtz6LBblreOrj" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T19:31:36.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Mlk11eeVcSRSFm_2Qjg1" version="14.8.4" type="github">
   <diagram id="L2TXuwGKTiOifBHz4EWC" name="Page-1">
     <mxGraphModel dx="2272" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-8" value="&lt;span&gt;Datacenter itself is highly available.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-8" value="&lt;span&gt;&lt;b&gt;Datacenter itself is highly available.&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-190" y="430" width="1030" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Eaq7VbKh-WucKhFLWZ-M-2" value="Datacenter" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.datacenter;" vertex="1" parent="1">
@@ -13,13 +13,13 @@
         <mxCell id="Eaq7VbKh-WucKhFLWZ-M-5" value="Datacenter" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.datacenter;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-9" value="&lt;span&gt;Against Localized failures:&lt;br&gt;Deploy on two different datacenters in&lt;br&gt;the same region.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-9" value="&lt;span&gt;&lt;b&gt;Against Localized failures:&lt;br&gt;&lt;/b&gt;Deploy on two different datacenters in&lt;br&gt;the same region.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-190" y="300" width="1030" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-10" value="&lt;span&gt;Regional failures&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-10" value="&lt;b&gt;Thales HA Group&lt;br&gt;&lt;/b&gt;Pairing these HSMs across &lt;br&gt;the datacenters in a region" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-190" y="170" width="1030" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-11" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-11" value="&lt;b&gt;Against Regional failure&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-190" y="40" width="1030" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Eaq7VbKh-WucKhFLWZ-M-15" value="Region A" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=none;verticalAlign=bottom;" vertex="1" parent="1">
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="Eaq7VbKh-WucKhFLWZ-M-24" value="Rack 2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image;image=img/lib/cumulus/rack_bare_metal.svg;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="409.46999999999997" y="320" width="50.53" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-27" value="&lt;font style=&quot;font-size: 40px&quot;&gt;1.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-28" value="&lt;font style=&quot;font-size: 40px&quot;&gt;2.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-29" value="&lt;font style=&quot;font-size: 40px&quot;&gt;3.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Eaq7VbKh-WucKhFLWZ-M-30" value="&lt;font style=&quot;font-size: 40px&quot;&gt;4.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="90" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
