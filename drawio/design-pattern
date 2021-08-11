@@ -1,10 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T12:40:21.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gevdoFhPvcMqcuZEWWIU" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T12:41:50.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="uPrdN-Zfk6b4TkG-VMGS" version="14.8.6" type="github" pages="2">
   <diagram id="gqjpJvftwnkx9YqlsChO" name="Page-1">
     <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VCO24N0PUViTH9vcQApr-1" value="&lt;font style=&quot;font-size: 37px&quot;&gt;Throttling&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="230" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rPGhJIQIu8yQHN5wTR6I" name="database-per-service">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bm2IYlAgONQ_q_Fc6pp8-0" />
+        <mxCell id="bm2IYlAgONQ_q_Fc6pp8-1" parent="bm2IYlAgONQ_q_Fc6pp8-0" />
+        <mxCell id="bm2IYlAgONQ_q_Fc6pp8-2" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Database per Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bm2IYlAgONQ_q_Fc6pp8-1">
           <mxGeometry x="200" y="200" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
