@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T11:53:05.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="sPni4c4IyvL9SdJXhWHq" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T11:53:51.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="fyXYYkoW9-A1Ndib8P4R" version="15.2.9" type="github">
   <diagram id="trzq1p-OfYOBStnoCpWl" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="rD6wE0RNOBBXVLlKYfHk-20" value="&lt;h1&gt;IaC in Terraform C/E&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="770" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD6wE0RNOBBXVLlKYfHk-21" value="&lt;h1&gt;Terragrunt (same structure) but has been deprecated/olddated&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="710" width="770" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
