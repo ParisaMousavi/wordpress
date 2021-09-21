@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T11:54:00.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="nyAZQEtbpCkxOTINreoG" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T11:54:24.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="A8Nvkj1iw3DGF1gK0fAT" version="15.2.9" type="github">
   <diagram id="trzq1p-OfYOBStnoCpWl" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rD6wE0RNOBBXVLlKYfHk-16" value="Use modules as blueprint" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="rD6wE0RNOBBXVLlKYfHk-16" value="Use Terraform modules as blueprint&lt;br&gt;(private registry)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="270" height="480" as="geometry" />
         </mxCell>
         <mxCell id="rD6wE0RNOBBXVLlKYfHk-2" value="az-storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
