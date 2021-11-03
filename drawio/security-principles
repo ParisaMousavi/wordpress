@@ -1,14 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T08:59:53.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="UswfSAuj2GX9No3neQPY" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T09:04:28.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ux1vRxilwPfrECtsPXgG" version="15.3.7" type="github">
   <diagram id="H8IbT2YckjbfvPU9S4iK" name="Page-1">
-    <mxGraphModel dx="2489" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-1" value="Encryption of Sensitive Data" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="260" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Wg2OZvQHAiZJDMzRgMIw-2" value="Resilient Key and Secret Management&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="260" width="200" height="80" as="geometry" />
+          <mxGeometry x="-120" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-3" value="Segregation of Concerns" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-4" value="Least Privilege" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-5" value="Encryption of Sensitive Data" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-6" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Enforcing Policies&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-7" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Security By Automation&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-8" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Logging and Monitoring&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-9" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Defense in Depth&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="260" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
