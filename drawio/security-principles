@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T09:06:05.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="H380LElsK0fgqeBYFT5n" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T09:07:42.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="BjY0IQVe6pjLvf2vddZQ" version="15.3.7" type="github">
   <diagram id="H8IbT2YckjbfvPU9S4iK" name="Page-1">
     <mxGraphModel dx="2249" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-2" value="Resilient Key and Secret Management&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-2" value="5.&lt;br&gt;Resilient Key and Secret Management&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="360" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-3" value="Segregation of Concerns" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-3" value="2.&lt;br&gt;Segregation of Concerns" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="270" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-4" value="Least Privilege" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="180" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-4" value="6.&lt;br&gt;Least Privilege" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-5" value="Encryption of Sensitive Data" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-5" value="1.&lt;br&gt;Encryption of Sensitive Data" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="270" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-6" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Enforcing Policies&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-6" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;&lt;div&gt;Enforcing Policies&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-7" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Security By Automation&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-7" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;7.&lt;/div&gt;&lt;div&gt;Security By Automation&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-8" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Logging and Monitoring&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-8" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;4.&lt;/div&gt;&lt;div&gt;Logging and Monitoring&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wg2OZvQHAiZJDMzRgMIw-9" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Defense in Depth&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="260" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-10" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Backup &amp;amp; Restore&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="780" y="260" width="150" height="80" as="geometry" />
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-10" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;8.&lt;/div&gt;&lt;div&gt;Backup &amp;amp; Restore&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
