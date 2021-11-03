@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T09:05:29.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZCOC3VHt9OcIn1tJMcf-" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T09:06:05.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="H380LElsK0fgqeBYFT5n" version="15.3.7" type="github">
   <diagram id="H8IbT2YckjbfvPU9S4iK" name="Page-1">
     <mxGraphModel dx="2249" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="Wg2OZvQHAiZJDMzRgMIw-9" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Defense in Depth&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg2OZvQHAiZJDMzRgMIw-10" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Backup &amp;amp; Restore&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
