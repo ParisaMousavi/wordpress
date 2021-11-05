@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T16:54:37.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bxUUY3W9huBR6betbWFr" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T16:56:04.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="26Fq7-IpaYbQaKT2qzc0" version="14.4.3" type="github">
   <diagram id="lvu1Uq9sEYOPz8YFPqiM" name="Page-1">
     <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="nJYneQumT8Z_ZIT9xsbs-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" vertex="1" parent="1">
           <mxGeometry x="230" y="489" width="68" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="nJYneQumT8Z_ZIT9xsbs-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="220" y="410" width="50" height="20" as="geometry" />
+        <mxCell id="nJYneQumT8Z_ZIT9xsbs-2" value="Container Registry&amp;nbsp;&lt;br&gt;Subnet Endpoint" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nJYneQumT8Z_ZIT9xsbs-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="nJYneQumT8Z_ZIT9xsbs-3" value="Container Registry&lt;br&gt;Subnet Endpoint" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
