@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T16:51:09.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3XVKE2tWQAdHaw9G1WqE" version="14.4.3" type="github"><diagram id="lvu1Uq9sEYOPz8YFPqiM" name="Page-1">zVVNc5swEP01HOMRwtj0WLukOfTDrQ+dnjoC1qBGsIwQH86vr2QLG4zTJtOkUzzDrN6udsV7D+N467x7L1mZfcQEhENJ0jneO4fSJaH6boC9BRbuEUglT47QANjyB7AgsWjNE6hGhQpRKF6OwRiLAmI1wpiU2I7LdijGU0uWwgTYxkxM0W88UdkRDXxyxu+Ap1k/2SU2k7O+2AJVxhJsB5AXOt5aIqpjlHdrEIa7npfjvttHsqeDSSjUUzZE3pe75OsmbzY/mwBvPn8njNzYLg0TtX3gsFAgS8kr0PgnUC3Ke4cuhJ6xiqSOUhO5ZHb46XGmwWXaPrHa9zRKrIsEzEmITrcZV7AtWWyyrfaNxjKVC71ydbjjQqxRoDzs9RIGwS7WeKUk3sMgs4gDiHY604BUXIv2VvC00DmFpiWzKwG786FMKXSPcuielNGOBsxByb0usRt62a2Z6dyu27M1/MBi2dAWSwsya8f01PqsmA6saM8QkE4E/DvuX4CkxQVJb/wJSZRcI4n4r0SS92eSegd9YBGIDVZccTTeiVApzMcc/d5tMZg3aGLXAguYepuQVXhLTXHGSnOUvEvN/+iMPdQSZg2XqmbiR2HfQ29VIjftw0ZPqV5OM/9CtDm54uwrmtHlzCfDa/5KEs7/P5/T5T80ul6ePxWH3OB764W/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-05T16:52:43.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LcVpAD3s90y7YpEmQn3Y" version="14.4.3" type="github">
+  <diagram id="lvu1Uq9sEYOPz8YFPqiM" name="Page-1">
+    <mxGraphModel dx="462" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b3QHdRPmvPjv8o-OY0a0-1" value="Enterprise Network&lt;br&gt;10.0.0.0/22&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="50" y="240" width="580" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="b3QHdRPmvPjv8o-OY0a0-2" value="master-subnet&lt;br&gt;10.0.0.0/23" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="295" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="b3QHdRPmvPjv8o-OY0a0-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="400" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="b3QHdRPmvPjv8o-OY0a0-4" value="worker-subnet&lt;br&gt;10.0.2.0/23" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="270" y="295" width="200" height="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
