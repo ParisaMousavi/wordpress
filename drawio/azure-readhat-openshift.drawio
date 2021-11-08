@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T21:20:43.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NH9hHiux58uXNdiREB8y" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T21:25:00.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="w-KWoS3vwPl7sGrkpdz4" version="15.6.8" type="github">
   <diagram id="lvu1Uq9sEYOPz8YFPqiM" name="Page-1">
     <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,15 @@
         </mxCell>
         <mxCell id="nJYneQumT8Z_ZIT9xsbs-3" value="Container Registry&lt;br&gt;Subnet Endpoint" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="270" y="410" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFfHvf7Wcq_rBVTU_K5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzFfHvf7Wcq_rBVTU_K5-1" target="ZzFfHvf7Wcq_rBVTU_K5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFfHvf7Wcq_rBVTU_K5-1" value="Private Endpoint" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="1">
+          <mxGeometry x="179" y="517" width="72" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzFfHvf7Wcq_rBVTU_K5-2" value="NIC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
