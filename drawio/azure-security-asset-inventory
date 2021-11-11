@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T10:15:14.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8WgyJY43u1Q_W7MfOlqd" version="15.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-11T10:22:25.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="eQbOED-aIKjuMRZPAsNj" version="15.6.6" type="github" pages="3">
   <diagram id="hBohaDpzw4KQZcImt6p4" name="Page-1">
     <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s21zm9we758OPnM7YxQX" name="defender-auto-provisioning">
-    <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JhPyyE15aI0MIuqFkN8S-0" />
         <mxCell id="JhPyyE15aI0MIuqFkN8S-1" parent="JhPyyE15aI0MIuqFkN8S-0" />
@@ -140,6 +140,17 @@
             <mxPoint x="200" y="920" as="sourcePoint" />
             <mxPoint x="1150" y="920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="59KmFSRJUFM_mxQQmQnb" name="defender-architecture">
+    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eOmj8wgn_P-pDR_QybM1-0" />
+        <mxCell id="eOmj8wgn_P-pDR_QybM1-1" parent="eOmj8wgn_P-pDR_QybM1-0" />
+        <mxCell id="eOmj8wgn_P-pDR_QybM1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
