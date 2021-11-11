@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T10:34:59.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ipr9-3xc0NucAMeYWvPi" version="15.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-11T10:37:10.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GRImGoBwLeuu0ahFnRu-" version="15.6.6" type="github" pages="3">
   <diagram id="hBohaDpzw4KQZcImt6p4" name="Page-1">
     <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,6 +248,12 @@
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-15" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;Defender lists the log analytics workspaces from all subscriptions&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#ffffff;verticalAlign=top;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
           <mxGeometry x="645" y="800" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIz7jGN3G_Ts-GVZkEzZ-0" value="&lt;h1&gt;Defender Architecture for Not-Multi-Country Enterprise&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="-45" y="40" width="865" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIz7jGN3G_Ts-GVZkEzZ-1" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;For multi country enterprise -&amp;gt; one central log analytics workspace per geo (Microsoft Default)&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#ffffff;verticalAlign=top;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="-35" y="80" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
