@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T10:37:21.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="b6bcya5LScTIeVJr5QJy" version="15.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-11T10:38:50.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="yxWJv3ISiMmyJn-HlZAd" version="15.6.6" type="github" pages="3">
   <diagram id="hBohaDpzw4KQZcImt6p4" name="Page-1">
     <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,10 +208,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=default;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="110" y="610" width="50" height="50" as="geometry" />
+          <mxGeometry x="145" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WsBJ4rblzOBuymj9RGJM-1" value="Activate Defender per subscription" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="75" y="735" width="120" height="60" as="geometry" />
+        <mxCell id="WsBJ4rblzOBuymj9RGJM-1" value="Activate Defender per subscription" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="110" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;" edge="1" parent="eOmj8wgn_P-pDR_QybM1-1" source="WsBJ4rblzOBuymj9RGJM-3" target="WsBJ4rblzOBuymj9RGJM-5">
           <mxGeometry relative="1" as="geometry" />
@@ -220,10 +220,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=default;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="345" y="610" width="50" height="50" as="geometry" />
+          <mxGeometry x="380" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WsBJ4rblzOBuymj9RGJM-5" value="Create central log analytics workspace" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="310" y="735" width="120" height="60" as="geometry" />
+        <mxCell id="WsBJ4rblzOBuymj9RGJM-5" value="Create central log analytics workspace" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="345" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;" edge="1" parent="eOmj8wgn_P-pDR_QybM1-1" source="WsBJ4rblzOBuymj9RGJM-7" target="WsBJ4rblzOBuymj9RGJM-9">
           <mxGeometry relative="1" as="geometry" />
@@ -232,27 +232,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=default;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="544" y="610" width="50" height="50" as="geometry" />
+          <mxGeometry x="579" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WsBJ4rblzOBuymj9RGJM-9" value="Activate auto provisioning for log analytics workspace" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="509" y="735" width="120" height="60" as="geometry" />
+        <mxCell id="WsBJ4rblzOBuymj9RGJM-9" value="Activate auto provisioning for log analytics workspace" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="544" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;" edge="1" parent="eOmj8wgn_P-pDR_QybM1-1" source="WsBJ4rblzOBuymj9RGJM-11" target="WsBJ4rblzOBuymj9RGJM-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WsBJ4rblzOBuymj9RGJM-11" value="&lt;font style=&quot;font-size: 24px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=default;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="755" y="610" width="50" height="50" as="geometry" />
+          <mxGeometry x="790" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WsBJ4rblzOBuymj9RGJM-13" value="Select the central log analytics workspace" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="720" y="735" width="120" height="60" as="geometry" />
+        <mxCell id="WsBJ4rblzOBuymj9RGJM-13" value="Select the central log analytics workspace" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=#e1d5e7;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="755" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WsBJ4rblzOBuymj9RGJM-15" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;Defender lists the log analytics workspaces from all subscriptions&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=default;verticalAlign=top;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
-          <mxGeometry x="720" y="800" width="235" height="60" as="geometry" />
+        <mxCell id="WsBJ4rblzOBuymj9RGJM-15" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;Defender lists the log analytics workspaces from all subscriptions&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#ffffff;verticalAlign=top;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+          <mxGeometry x="697.5" y="790" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zIz7jGN3G_Ts-GVZkEzZ-0" value="&lt;h1&gt;Defender Architecture for Not-Multi-Country Enterprise&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
           <mxGeometry x="30" y="40" width="865" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zIz7jGN3G_Ts-GVZkEzZ-1" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;For multi country enterprise -&amp;gt; one central log analytics workspace per geo (Microsoft Default)&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=default;verticalAlign=top;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
+        <mxCell id="zIz7jGN3G_Ts-GVZkEzZ-1" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;For multi country enterprise -&amp;gt; one central log analytics workspace per geo (Microsoft Default)&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#ffffff;verticalAlign=top;" vertex="1" parent="eOmj8wgn_P-pDR_QybM1-1">
           <mxGeometry x="40" y="80" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
