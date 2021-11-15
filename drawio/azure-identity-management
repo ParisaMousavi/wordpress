@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:19:15.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UChsf9mnSAOwZJ1kHH2h" version="15.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-15T09:25:27.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0OXJK9ZSoHDnTaNbQvbh" version="15.7.3" type="github" pages="2">
   <diagram id="YlVB3_wVfHfG81dNOtEb" name="aad-comprehensive">
     <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="EgiW0XzhEaowQnFvB7vz-8" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Billing Administrator&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EgiW0XzhEaowQnFvB7vz-1">
           <mxGeometry x="530" y="450" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4vzBrrvrhlv5gpg-V8v1-0" value="&lt;h1&gt;Available roles in Azure&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="EgiW0XzhEaowQnFvB7vz-1">
+          <mxGeometry x="60" y="130" width="570" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
