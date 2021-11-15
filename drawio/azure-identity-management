@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T08:16:16.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DIlSL9I_NoMv7zz3xT6R" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T08:17:43.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xhwXxtjzYzLUjZ-161z7" version="15.7.3" type="github">
   <diagram id="YlVB3_wVfHfG81dNOtEb" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,24 @@
         <mxCell id="1" parent="0" />
         <mxCell id="T9HBwrE1bLbRqIUu-8T6-1" value="Azure Active Directory&lt;br&gt;(Microsoft Global)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="T9HBwrE1bLbRqIUu-8T6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T9HBwrE1bLbRqIUu-8T6-2" target="T9HBwrE1bLbRqIUu-8T6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9HBwrE1bLbRqIUu-8T6-2" value="Microsoft 365" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9HBwrE1bLbRqIUu-8T6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9HBwrE1bLbRqIUu-8T6-3" target="T9HBwrE1bLbRqIUu-8T6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9HBwrE1bLbRqIUu-8T6-3" value="Azure Portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9HBwrE1bLbRqIUu-8T6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T9HBwrE1bLbRqIUu-8T6-4" target="T9HBwrE1bLbRqIUu-8T6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9HBwrE1bLbRqIUu-8T6-4" value="SaaS Applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
