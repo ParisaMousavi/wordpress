@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T14:16:03.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="tVa2Kd8BFQqNx_RfOrkr" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T14:17:44.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="uZAswKI3fpkyDivU4dWs" version="15.7.4" type="github">
   <diagram id="a5aYMJw8yutbp4DdBtP6" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,15 @@
         <mxCell id="1" parent="0" />
         <mxCell id="x_YSEk_qUoA7G-xELLig-1" value="&lt;h1&gt;Processes for a Product&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x_YSEk_qUoA7G-xELLig-3" value="Change Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_YSEk_qUoA7G-xELLig-4" value="Incident Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_YSEk_qUoA7G-xELLig-5" value="Problem Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
