@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T16:02:19.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jDQTDXIwRPZdzLD7rQpd" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T20:10:50.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JBhe5_2gICB-tMyykylV" version="16.0.0" type="github" pages="2">
   <diagram id="yOWyS6i5GJ87VD46SoxC" name="defens-in-depth azure">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,6 +69,14 @@
         <mxCell id="CnGjKRaplIYAoS46_w1a-4" value="e.g. using:&lt;br&gt;- Regular application of OS and layered software oatches" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="385" width="193" height="45" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nGiEaDmG-7-rF6SK0OCp" name="DDoS">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="APeFuf3yboXCaC1FCCZp-0" />
+        <mxCell id="APeFuf3yboXCaC1FCCZp-1" parent="APeFuf3yboXCaC1FCCZp-0" />
       </root>
     </mxGraphModel>
   </diagram>
