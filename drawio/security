@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T15:29:54.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nTSv1AviN0AVUY7WQ9Xl" version="16.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-04T15:32:02.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6WbquOkB52UlNsfJoTTV" version="16.0.0" type="github" pages="2">
   <diagram id="fcpo3lNLC05b7nJzdOVR" name="security">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,18 @@
       <root>
         <mxCell id="exrINB3PsgjGZqbGcFD1-0" />
         <mxCell id="exrINB3PsgjGZqbGcFD1-1" parent="exrINB3PsgjGZqbGcFD1-0" />
+        <mxCell id="exrINB3PsgjGZqbGcFD1-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="exrINB3PsgjGZqbGcFD1-1">
+          <mxGeometry x="460" y="370" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="exrINB3PsgjGZqbGcFD1-3" value="vnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="exrINB3PsgjGZqbGcFD1-1">
+          <mxGeometry x="220" y="290" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="exrINB3PsgjGZqbGcFD1-5" value="subnet 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="exrINB3PsgjGZqbGcFD1-1">
+          <mxGeometry x="240" y="320" width="133.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="exrINB3PsgjGZqbGcFD1-6" value="subnet 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="exrINB3PsgjGZqbGcFD1-1">
+          <mxGeometry x="376.66999999999996" y="320" width="133.33" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
