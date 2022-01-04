@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T22:35:50.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xDgQjO9KZx_Br1pfsZ-Y" version="16.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-04T22:58:53.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Q2X1M-5avkA4va_xI0AO" version="16.0.0" type="github" pages="2">
   <diagram id="yOWyS6i5GJ87VD46SoxC" name="defens-in-depth azure">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,10 +87,10 @@
           <mxGeometry x="499" y="170" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-5" value="Azure Firewall Manager" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;labelBackgroundColor=none;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
-          <mxGeometry x="580" y="585" width="70" height="60" as="geometry" />
+          <mxGeometry x="384" y="585" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
-          <mxGeometry x="120" y="370" width="540" height="240" as="geometry" />
+          <mxGeometry x="120" y="370" width="360" height="240" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-10" value="associates with" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" edge="1" parent="APeFuf3yboXCaC1FCCZp-1" source="APeFuf3yboXCaC1FCCZp-7" target="APeFuf3yboXCaC1FCCZp-9">
           <mxGeometry relative="1" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="220" y="438.5" width="50" height="27.500000000000004" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-15" value="Firewall Rule" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
-          <mxGeometry x="620" y="430" width="120" height="21" as="geometry" />
+          <mxGeometry x="424" y="430" width="120" height="21" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-16" value="Firewall Policy" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
-          <mxGeometry x="620" y="460" width="120" height="20" as="geometry" />
+          <mxGeometry x="424" y="460" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
