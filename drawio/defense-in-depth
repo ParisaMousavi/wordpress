@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T22:34:50.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="u_Fk4TtJK7JQFGSaOl0g" version="16.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-04T22:35:50.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xDgQjO9KZx_Br1pfsZ-Y" version="16.0.0" type="github" pages="2">
   <diagram id="yOWyS6i5GJ87VD46SoxC" name="defens-in-depth azure">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="APeFuf3yboXCaC1FCCZp-10" value="associates with" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" edge="1" parent="APeFuf3yboXCaC1FCCZp-1" source="APeFuf3yboXCaC1FCCZp-7" target="APeFuf3yboXCaC1FCCZp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="APeFuf3yboXCaC1FCCZp-7" value="Network resources at scale" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
+        <mxCell id="APeFuf3yboXCaC1FCCZp-7" value="Virtual Network" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
           <mxGeometry x="150" y="488" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
@@ -109,7 +109,7 @@
             <mxPoint y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="APeFuf3yboXCaC1FCCZp-11" value="Hub" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
+        <mxCell id="APeFuf3yboXCaC1FCCZp-11" value="Virtual Hub" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
           <mxGeometry x="150" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APeFuf3yboXCaC1FCCZp-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
