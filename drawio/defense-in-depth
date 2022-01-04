@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T22:33:54.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4nj7IRnOCQQ3hflFp9TG" version="16.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-04T22:34:50.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="u_Fk4TtJK7JQFGSaOl0g" version="16.0.0" type="github" pages="2">
   <diagram id="yOWyS6i5GJ87VD46SoxC" name="defens-in-depth azure">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,10 +115,10 @@
         <mxCell id="APeFuf3yboXCaC1FCCZp-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
           <mxGeometry x="220" y="438.5" width="50" height="27.500000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="APeFuf3yboXCaC1FCCZp-15" value="Rule" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
+        <mxCell id="APeFuf3yboXCaC1FCCZp-15" value="Firewall Rule" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
           <mxGeometry x="620" y="430" width="120" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="APeFuf3yboXCaC1FCCZp-16" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
+        <mxCell id="APeFuf3yboXCaC1FCCZp-16" value="Firewall Policy" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="APeFuf3yboXCaC1FCCZp-1">
           <mxGeometry x="620" y="460" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
