@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T10:05:46.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1IyYWTHO5erxag5JVI6S" version="16.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-05T10:11:30.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gfKHhQ89f56nkEHxKqKa" version="16.2.0" type="github" pages="4">
   <diagram id="fcpo3lNLC05b7nJzdOVR" name="security">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,8 +44,26 @@
       <root>
         <mxCell id="DCTbe4xi6KHfysZgriPF-0" />
         <mxCell id="DCTbe4xi6KHfysZgriPF-1" parent="DCTbe4xi6KHfysZgriPF-0" />
+        <mxCell id="8_sE5RdcF1yvLH33q806-1" value="uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DCTbe4xi6KHfysZgriPF-1" source="DCTbe4xi6KHfysZgriPF-2" target="8_sE5RdcF1yvLH33q806-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DCTbe4xi6KHfysZgriPF-2" value="Security Enginner" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="DCTbe4xi6KHfysZgriPF-1" vertex="1">
-          <mxGeometry x="390" y="230" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="180" y="200" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8_sE5RdcF1yvLH33q806-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DCTbe4xi6KHfysZgriPF-1" source="8_sE5RdcF1yvLH33q806-0" target="8_sE5RdcF1yvLH33q806-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_sE5RdcF1yvLH33q806-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DCTbe4xi6KHfysZgriPF-1" source="8_sE5RdcF1yvLH33q806-0" target="8_sE5RdcF1yvLH33q806-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_sE5RdcF1yvLH33q806-0" value="Privilaged Identity Management (PIM)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DCTbe4xi6KHfysZgriPF-1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_sE5RdcF1yvLH33q806-2" value="Protect administrator privilages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DCTbe4xi6KHfysZgriPF-1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_sE5RdcF1yvLH33q806-4" value="mitigate the risk of excessive access right" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DCTbe4xi6KHfysZgriPF-1">
+          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
