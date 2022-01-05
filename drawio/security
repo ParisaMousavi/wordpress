@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T12:27:29.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ai-cOvQbR5LY25iBC0yI" version="16.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-05T12:31:51.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="n7oYOChmov_wurNsDyNp" version="16.2.1" type="github" pages="4">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="security engineer">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lk5SsJPRfJ8Cwjd8CIfj" name="zero trust workflow">
-    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9UjUsGnMPUGb9FHeFkxj-0" />
         <mxCell id="9UjUsGnMPUGb9FHeFkxj-1" parent="9UjUsGnMPUGb9FHeFkxj-0" />
@@ -143,25 +143,43 @@
         <mxCell id="9UjUsGnMPUGb9FHeFkxj-4" value="Enforcemen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
           <mxGeometry x="560" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
-          <mxGeometry x="114" y="320" width="606" height="40" as="geometry" />
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;verticalAlign=top;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+          <mxGeometry x="114" y="320" width="606" height="339" as="geometry" />
         </mxCell>
         <mxCell id="9UjUsGnMPUGb9FHeFkxj-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-5">
-          <mxGeometry width="606" height="40" as="geometry" />
+          <mxGeometry width="606" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
-          <mxGeometry width="202" height="40" as="geometry">
-            <mxRectangle width="202" height="40" as="alternateBounds" />
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-7" value="&lt;b&gt;Signal &lt;/b&gt;- to make an informed decision." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+          <mxGeometry width="202" height="50" as="geometry">
+            <mxRectangle width="202" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
-          <mxGeometry x="202" width="202" height="40" as="geometry">
-            <mxRectangle width="202" height="40" as="alternateBounds" />
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-8" value="&lt;b&gt;Decision &lt;/b&gt;- based on organizational policy." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+          <mxGeometry x="202" width="202" height="50" as="geometry">
+            <mxRectangle width="202" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
-          <mxGeometry x="404" width="202" height="40" as="geometry">
-            <mxRectangle width="202" height="40" as="alternateBounds" />
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-9" value="&lt;b&gt;Enforcement &lt;/b&gt;- of the policy across resources." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+          <mxGeometry x="404" width="202" height="50" as="geometry">
+            <mxRectangle width="202" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-5">
+          <mxGeometry y="50" width="606" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-11" value="&lt;div&gt;Zero Trust consider many signal sources - from identity systems to device management and device security tools - to create context-rich insights that help make informed decisions.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The access request and signal are analyzed to deliver a decision based on finely-tuned access policies, delivering granular, organization-centric access control.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Decisions are then enforced across the entire digital estate - such as read-only access to SaaS app or remediating compromised passwords with a self-service password reset.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-10">
+          <mxGeometry width="202" height="289" as="geometry">
+            <mxRectangle width="202" height="289" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-12" value="The access request and signal are analyzed to deliver a decision based on finely-tuned access policies, delivering granular, organization-centric access control." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-10">
+          <mxGeometry x="202" width="202" height="289" as="geometry">
+            <mxRectangle width="202" height="289" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-13" value="Decisions are then enforced across the entire digital estate - such as read-only access to SaaS app or remediating compromised passwords with a self-service password reset." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-10">
+          <mxGeometry x="404" width="202" height="289" as="geometry">
+            <mxRectangle width="202" height="289" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
