@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T12:03:05.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3wghnXlBl4eh2Aadk4l3" version="16.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-05T12:27:29.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ai-cOvQbR5LY25iBC0yI" version="16.2.1" type="github" pages="4">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="security engineer">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,6 +125,44 @@
         </mxCell>
         <mxCell id="DTHofmtV1rENspQqIuYj-6" value="Azure AD Privilated Identity Management (PIM)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DTHofmtV1rENspQqIuYj-1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lk5SsJPRfJ8Cwjd8CIfj" name="zero trust workflow">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-0" />
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-1" parent="9UjUsGnMPUGb9FHeFkxj-0" />
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-2" value="Signal" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+          <mxGeometry x="150" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-3" value="Decision" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+          <mxGeometry x="357" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-4" value="Enforcemen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+          <mxGeometry x="560" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+          <mxGeometry x="114" y="320" width="606" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-5">
+          <mxGeometry width="606" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+          <mxGeometry width="202" height="40" as="geometry">
+            <mxRectangle width="202" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+          <mxGeometry x="202" width="202" height="40" as="geometry">
+            <mxRectangle width="202" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+          <mxGeometry x="404" width="202" height="40" as="geometry">
+            <mxRectangle width="202" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
