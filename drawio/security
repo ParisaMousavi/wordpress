@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T11:00:05.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ls1Hsg2dk98na2M7K2i-" version="16.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-05T12:03:05.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3wghnXlBl4eh2Aadk4l3" version="16.2.1" type="github" pages="3">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="security engineer">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,29 @@
           <mxGeometry x="230" width="77" height="40" as="geometry">
             <mxRectangle width="77" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gIES-Otev0u5tBfv57gM" name="zero trust">
+    <mxGraphModel dx="865" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DTHofmtV1rENspQqIuYj-0" />
+        <mxCell id="DTHofmtV1rENspQqIuYj-1" parent="DTHofmtV1rENspQqIuYj-0" />
+        <mxCell id="DTHofmtV1rENspQqIuYj-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DTHofmtV1rENspQqIuYj-1" source="DTHofmtV1rENspQqIuYj-2" target="DTHofmtV1rENspQqIuYj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DTHofmtV1rENspQqIuYj-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DTHofmtV1rENspQqIuYj-1" source="DTHofmtV1rENspQqIuYj-2" target="DTHofmtV1rENspQqIuYj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DTHofmtV1rENspQqIuYj-2" value="Zero Trust Model" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="DTHofmtV1rENspQqIuYj-1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTHofmtV1rENspQqIuYj-4" value="Perimeter Protection" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DTHofmtV1rENspQqIuYj-1">
+          <mxGeometry x="380" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTHofmtV1rENspQqIuYj-6" value="Azure AD Privilated Identity Management (PIM)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DTHofmtV1rENspQqIuYj-1">
+          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
