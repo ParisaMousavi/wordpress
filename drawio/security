@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T14:07:13.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PDxhRDdbyDIkUBsNXgsZ" version="16.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-05T14:09:43.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="575ajgdc7MNn9xNwQq-t" version="16.2.1" type="github" pages="4">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
-    <mxGraphModel dx="1887" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DCTbe4xi6KHfysZgriPF-0" />
         <mxCell id="DCTbe4xi6KHfysZgriPF-1" parent="DCTbe4xi6KHfysZgriPF-0" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="c_abzyZ70Umr9SZAU9GH-22" value="Access review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DCTbe4xi6KHfysZgriPF-1">
           <mxGeometry x="901" y="619" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_abzyZ70Umr9SZAU9GH-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Recommentation&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. The operations which need the AAD roles can done by Azure AD Administrator." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" vertex="1" parent="DCTbe4xi6KHfysZgriPF-1">
+          <mxGeometry x="-230" y="20" width="230" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
