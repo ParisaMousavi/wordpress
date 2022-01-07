@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T12:49:57.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Or6TmohAhFEY-BneciLm" version="16.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-07T18:01:18.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dEL1JmHC-ccWnwiSRFdE" version="16.2.1" type="github" pages="5">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
     <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,16 +189,16 @@
       <root>
         <mxCell id="dLqZZYHmkeG2-0bf4kut-0" />
         <mxCell id="dLqZZYHmkeG2-0bf4kut-1" parent="dLqZZYHmkeG2-0bf4kut-0" />
-        <mxCell id="dLqZZYHmkeG2-0bf4kut-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dLqZZYHmkeG2-0bf4kut-1" source="dLqZZYHmkeG2-0bf4kut-2" target="dLqZZYHmkeG2-0bf4kut-3">
+        <mxCell id="dLqZZYHmkeG2-0bf4kut-4" value="selects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dLqZZYHmkeG2-0bf4kut-1" source="dLqZZYHmkeG2-0bf4kut-2" target="dLqZZYHmkeG2-0bf4kut-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLqZZYHmkeG2-0bf4kut-2" value="Azure AD&lt;br&gt;Global Administrator" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="dLqZZYHmkeG2-0bf4kut-2" value="Azure AD&lt;br&gt;Global Administrator" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="350" y="52.5" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dLqZZYHmkeG2-0bf4kut-3" value="Makes user / group eligible to request an Azure AD / Azure Resources Role" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
-          <mxGeometry x="510" y="40" width="280" height="75" as="geometry" />
+        <mxCell id="dLqZZYHmkeG2-0bf4kut-3" value="a Role" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
+          <mxGeometry x="510" y="57.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dLqZZYHmkeG2-0bf4kut-5" value="&lt;b&gt;Note&lt;/b&gt;&lt;br&gt;&lt;br&gt;By default the first Global Administrator is&amp;nbsp;&lt;br&gt;-&amp;nbsp;Security Administrator&lt;br&gt;-&amp;nbsp;Privileged Role Administrator&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="dLqZZYHmkeG2-0bf4kut-5" value="&lt;b&gt;Note&lt;/b&gt;&lt;br&gt;&lt;br&gt;By default the first Global Administrator is&amp;nbsp;&lt;br&gt;-&amp;nbsp;Security Administrator&lt;br&gt;-&amp;nbsp;Privileged Role Administrator&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="20" y="40" width="280" height="177.5" as="geometry" />
         </mxCell>
       </root>
