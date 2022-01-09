@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T23:13:29.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="W378gR5NTpuj1gJH0_uV" version="15.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-09T23:18:02.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="77ZTgfHj2SBZ5Bw6ZcPC" version="15.7.1" type="github" pages="2">
   <diagram id="1WQrzugM3mSanYjvC9MU" name="s3">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,12 @@
         <mxCell id="lZhq6N-RLEPcpf46Ezwa-2" value="Server-side encryption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vLz8UkV1NEBNVL_q8OgP-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZhq6N-RLEPcpf46Ezwa-3" target="vLz8UkV1NEBNVL_q8OgP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLz8UkV1NEBNVL_q8OgP-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZhq6N-RLEPcpf46Ezwa-3" target="vLz8UkV1NEBNVL_q8OgP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZhq6N-RLEPcpf46Ezwa-3" value="Client-side &lt;br&gt;encryption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +42,12 @@
         </mxCell>
         <mxCell id="lZhq6N-RLEPcpf46Ezwa-8" value="Server-Side Encryption with Customer-Provided Keys (SSE-C)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="490" y="30" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLz8UkV1NEBNVL_q8OgP-1" value="Using a KMS key stored in AWS KMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLz8UkV1NEBNVL_q8OgP-2" value="Using a key stored within your application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
