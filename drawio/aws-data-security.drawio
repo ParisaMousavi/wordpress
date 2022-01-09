@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T23:13:04.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QpEO9EEi5cMB0mv5aa5x" version="15.7.1" type="github">
-  <diagram id="1WQrzugM3mSanYjvC9MU" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-01-09T23:13:29.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="W378gR5NTpuj1gJH0_uV" version="15.7.1" type="github" pages="2">
+  <diagram id="1WQrzugM3mSanYjvC9MU" name="s3">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -37,6 +37,14 @@
         <mxCell id="lZhq6N-RLEPcpf46Ezwa-8" value="Server-Side Encryption with Customer-Provided Keys (SSE-C)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="490" y="30" width="260" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KvdlzAdx4UgldQFySBEx" name="dynamodb">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="S-RDuJc7DPPpoyYycBgv-0" />
+        <mxCell id="S-RDuJc7DPPpoyYycBgv-1" parent="S-RDuJc7DPPpoyYycBgv-0" />
       </root>
     </mxGraphModel>
   </diagram>
