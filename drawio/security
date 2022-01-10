@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T18:17:02.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DGzOYvGGOZrL6X3IL8_G" version="16.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-10T08:18:49.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="D0977QV1nKvQpm1SDNel" version="16.2.3" type="github" pages="5">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
     <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="dLqZZYHmkeG2-0bf4kut-2" value="Azure AD&lt;br&gt;Global Administrator" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="350" y="52.5" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-1" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dLqZZYHmkeG2-0bf4kut-1" source="dLqZZYHmkeG2-0bf4kut-3" target="AEU3AlRm1DP7h2QeScCG-0">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-1" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="dLqZZYHmkeG2-0bf4kut-3" target="AEU3AlRm1DP7h2QeScCG-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLqZZYHmkeG2-0bf4kut-3" value="a Role" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
@@ -204,52 +204,52 @@
         <mxCell id="dLqZZYHmkeG2-0bf4kut-5" value="&lt;b&gt;Note&lt;/b&gt;&lt;br&gt;&lt;br&gt;By default the first Global Administrator is&amp;nbsp;&lt;br&gt;-&amp;nbsp;Security Administrator&lt;br&gt;-&amp;nbsp;Privileged Role Administrator&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="20" y="40" width="280" height="177.5" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-3" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-0" target="AEU3AlRm1DP7h2QeScCG-4">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-3" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-0" target="AEU3AlRm1DP7h2QeScCG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-0" value="user/s&lt;br&gt;group/s" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-0" value="user/s&lt;br&gt;group/s" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="707" y="57.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-2" value="Assignment created" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-2" value="Assignment created" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="1130" y="37.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-4" target="AEU3AlRm1DP7h2QeScCG-2">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-4" target="AEU3AlRm1DP7h2QeScCG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-4" value="Start &amp;amp; End&lt;br&gt;Date &amp;amp; Time" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-4" value="Start &amp;amp; End&lt;br&gt;Date &amp;amp; Time" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="930" y="57.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-6" value="selects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AEU3AlRm1DP7h2QeScCG-7" target="AEU3AlRm1DP7h2QeScCG-9" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-6" value="selects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-7" target="AEU3AlRm1DP7h2QeScCG-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-7" value="Azure AD&lt;br&gt;Global Administrator" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-7" value="Azure AD&lt;br&gt;Global Administrator" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="350" y="205" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-8" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="AEU3AlRm1DP7h2QeScCG-9" target="AEU3AlRm1DP7h2QeScCG-11" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-8" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-9" target="AEU3AlRm1DP7h2QeScCG-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-9" value="a Role" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-9" value="a Role" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="480" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-10" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="AEU3AlRm1DP7h2QeScCG-11" target="AEU3AlRm1DP7h2QeScCG-14" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-10" value="select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-11" target="AEU3AlRm1DP7h2QeScCG-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-11" value="configure Activation" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-11" value="configure Activation" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="707" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-12" value="Assignment created" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-12" value="Workflow&lt;br&gt;created" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="1350" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="AEU3AlRm1DP7h2QeScCG-14" target="AEU3AlRm1DP7h2QeScCG-15" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-14" target="AEU3AlRm1DP7h2QeScCG-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-14" value="configure Assignment" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-14" value="configure Assignment" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="930" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-15" target="AEU3AlRm1DP7h2QeScCG-12">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dLqZZYHmkeG2-0bf4kut-1" source="AEU3AlRm1DP7h2QeScCG-15" target="AEU3AlRm1DP7h2QeScCG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEU3AlRm1DP7h2QeScCG-15" value="configure Notification" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dLqZZYHmkeG2-0bf4kut-1">
+        <mxCell id="AEU3AlRm1DP7h2QeScCG-15" value="configure Notification" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dLqZZYHmkeG2-0bf4kut-1" vertex="1">
           <mxGeometry x="1140" y="210" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -279,54 +279,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lk5SsJPRfJ8Cwjd8CIfj" name="zero trust workflow">
-    <mxGraphModel dx="865" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9UjUsGnMPUGb9FHeFkxj-0" />
         <mxCell id="9UjUsGnMPUGb9FHeFkxj-1" parent="9UjUsGnMPUGb9FHeFkxj-0" />
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-2" value="1. Signal" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-2" value="1. Signal" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="9UjUsGnMPUGb9FHeFkxj-1" vertex="1">
           <mxGeometry x="150" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-3" value="2. Decision" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-3" value="2. Decision" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="9UjUsGnMPUGb9FHeFkxj-1" vertex="1">
           <mxGeometry x="357" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-4" value="3. Enforcemen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-4" value="3. Enforcemen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="9UjUsGnMPUGb9FHeFkxj-1" vertex="1">
           <mxGeometry x="560" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;verticalAlign=top;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-1">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;verticalAlign=top;" parent="9UjUsGnMPUGb9FHeFkxj-1" vertex="1">
           <mxGeometry x="114" y="320" width="606" height="339" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-5">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9UjUsGnMPUGb9FHeFkxj-5" vertex="1">
           <mxGeometry width="606" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-7" value="&lt;b&gt;Signal &lt;/b&gt;- to make an informed decision." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-7" value="&lt;b&gt;Signal &lt;/b&gt;- to make an informed decision." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="9UjUsGnMPUGb9FHeFkxj-6" vertex="1">
           <mxGeometry width="202" height="50" as="geometry">
             <mxRectangle width="202" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-8" value="&lt;b&gt;Decision &lt;/b&gt;- based on organizational policy." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-8" value="&lt;b&gt;Decision &lt;/b&gt;- based on organizational policy." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="9UjUsGnMPUGb9FHeFkxj-6" vertex="1">
           <mxGeometry x="202" width="202" height="50" as="geometry">
             <mxRectangle width="202" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-9" value="&lt;b&gt;Enforcement &lt;/b&gt;- of the policy across resources." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-6">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-9" value="&lt;b&gt;Enforcement &lt;/b&gt;- of the policy across resources." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="9UjUsGnMPUGb9FHeFkxj-6" vertex="1">
           <mxGeometry x="404" width="202" height="50" as="geometry">
             <mxRectangle width="202" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-5">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9UjUsGnMPUGb9FHeFkxj-5" vertex="1">
           <mxGeometry y="50" width="606" height="289" as="geometry" />
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-11" value="&lt;div&gt;Zero Trust consider many signal sources - from identity systems to device management and device security tools - to create context-rich insights that help make informed decisions.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The access request and signal are analyzed to deliver a decision based on finely-tuned access policies, delivering granular, organization-centric access control.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Decisions are then enforced across the entire digital estate - such as read-only access to SaaS app or remediating compromised passwords with a self-service password reset.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-10">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-11" value="&lt;div&gt;Zero Trust consider many signal sources - from identity systems to device management and device security tools - to create context-rich insights that help make informed decisions.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The access request and signal are analyzed to deliver a decision based on finely-tuned access policies, delivering granular, organization-centric access control.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Decisions are then enforced across the entire digital estate - such as read-only access to SaaS app or remediating compromised passwords with a self-service password reset.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="9UjUsGnMPUGb9FHeFkxj-10" vertex="1">
           <mxGeometry width="202" height="289" as="geometry">
             <mxRectangle width="202" height="289" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-12" value="The access request and signal are analyzed to deliver a decision based on finely-tuned access policies, delivering granular, organization-centric access control." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-10">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-12" value="The access request and signal are analyzed to deliver a decision based on finely-tuned access policies, delivering granular, organization-centric access control." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=top;" parent="9UjUsGnMPUGb9FHeFkxj-10" vertex="1">
           <mxGeometry x="202" width="202" height="289" as="geometry">
             <mxRectangle width="202" height="289" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9UjUsGnMPUGb9FHeFkxj-13" value="Decisions are then enforced across the entire digital estate - such as read-only access to SaaS app or remediating compromised passwords with a self-service password reset." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="9UjUsGnMPUGb9FHeFkxj-10">
+        <mxCell id="9UjUsGnMPUGb9FHeFkxj-13" value="Decisions are then enforced across the entire digital estate - such as read-only access to SaaS app or remediating compromised passwords with a self-service password reset." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;verticalAlign=top;align=left;" parent="9UjUsGnMPUGb9FHeFkxj-10" vertex="1">
           <mxGeometry x="404" width="202" height="289" as="geometry">
             <mxRectangle width="202" height="289" as="alternateBounds" />
           </mxGeometry>
