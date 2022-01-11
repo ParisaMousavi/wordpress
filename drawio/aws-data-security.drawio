@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T13:06:00.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5TwK79TjmiIeCfon-05h" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-11T16:20:27.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="P-7ewPR9qxF0cTfEfrAi" version="16.2.4" type="github" pages="2">
   <diagram id="1WQrzugM3mSanYjvC9MU" name="s3">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,34 +49,34 @@
         <mxCell id="vLz8UkV1NEBNVL_q8OgP-2" value="Using a key stored within your application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="490" y="320" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQW-PRk71p-FxTp6DC9D-1" target="xQW-PRk71p-FxTp6DC9D-3">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQW-PRk71p-FxTp6DC9D-1" target="xQW-PRk71p-FxTp6DC9D-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-1" value="Elastic Block Store&lt;br&gt;EBS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_block_store;" vertex="1" parent="1">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-1" value="Elastic Block Store&lt;br&gt;EBS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_block_store;" parent="1" vertex="1">
           <mxGeometry x="110" y="511" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-2" value="&lt;div&gt;Operating System&lt;/div&gt;&lt;div&gt;Implement third party volume encryption tools&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-2" value="&lt;div&gt;Operating System&lt;/div&gt;&lt;div&gt;Implement third party volume encryption tools&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="500" y="550" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQW-PRk71p-FxTp6DC9D-3" target="xQW-PRk71p-FxTp6DC9D-2">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQW-PRk71p-FxTp6DC9D-3" target="xQW-PRk71p-FxTp6DC9D-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQW-PRk71p-FxTp6DC9D-3" target="xQW-PRk71p-FxTp6DC9D-6">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQW-PRk71p-FxTp6DC9D-3" target="xQW-PRk71p-FxTp6DC9D-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQW-PRk71p-FxTp6DC9D-3" target="xQW-PRk71p-FxTp6DC9D-7">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQW-PRk71p-FxTp6DC9D-3" target="xQW-PRk71p-FxTp6DC9D-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-3" value="Client-side &lt;br&gt;encryption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-3" value="Client-side &lt;br&gt;encryption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="300" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-4" value="Server-side encryption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-4" value="Server-side encryption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-6" value="&lt;div&gt;Operating System&lt;/div&gt;&lt;div&gt;Encrypt data using native data encryption drivers at the file system level&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-6" value="&lt;div&gt;Operating System&lt;/div&gt;&lt;div&gt;Encrypt data using native data encryption drivers at the file system level&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="500" y="620" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xQW-PRk71p-FxTp6DC9D-7" value="&lt;div&gt;Operating System&lt;/div&gt;&lt;div&gt;Encrypt data inside your applications before storing it on EBS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xQW-PRk71p-FxTp6DC9D-7" value="&lt;div&gt;Operating System&lt;/div&gt;&lt;div&gt;Encrypt data inside your applications before storing it on EBS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="500" y="690" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
