@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:59:24.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="W_1KfteMz15C-ghBcbBT" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T13:59:40.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8NbQb9DShexPmJu9Dq--" version="16.2.4" type="github">
   <diagram id="p9xeP8e23zRgJ20y257c" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Lv9x3WWMOirODoJr_KJ-9" target="3Lv9x3WWMOirODoJr_KJ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Lv9x3WWMOirODoJr_KJ-9" value="PIM Dokument" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-9" value="PIM Dokument" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-10" value="Azure Password Regels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Lv9x3WWMOirODoJr_KJ-12" target="3Lv9x3WWMOirODoJr_KJ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Lv9x3WWMOirODoJr_KJ-12" value="Create a PIM Poc&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-12" value="Create a PIM Poc&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-14" value="Azure Portal Session" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
