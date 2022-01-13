@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:21:32.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8CvxeuwDKNYA4VbzvSnf" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T13:22:37.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="owV6Bau8h3CvsfnwLkny" version="16.2.4" type="github">
   <diagram id="p9xeP8e23zRgJ20y257c" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,6 +34,9 @@
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-11" value="E-Mail on Andread &amp;amp; Sascha for a new AAD Group for PIM POC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Lv9x3WWMOirODoJr_KJ-12" target="3Lv9x3WWMOirODoJr_KJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-12" value="Create a PIM Poc&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -45,6 +48,9 @@
         </mxCell>
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-16" value="Review CaaS Doc for SAL &amp;amp; Infra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-17" value="Vorgehenweise kurz dokumentieren" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
