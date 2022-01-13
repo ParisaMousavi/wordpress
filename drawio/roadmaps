@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:24:30.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0vCJktNCl0GZf-8o_NAL" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T13:26:29.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dgMvy5dBMOCmhyeGQeKA" version="16.2.4" type="github">
   <diagram id="p9xeP8e23zRgJ20y257c" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,15 @@
         </mxCell>
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-22" value="Fragen für CaaS sammeln" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="10" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-23" value="VNET Flow for detektion &amp;amp; reaktion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-24" value="Defender for cloud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-25" value="Review RnR Matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
