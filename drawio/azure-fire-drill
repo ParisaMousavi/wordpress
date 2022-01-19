@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T22:55:38.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.4.0" etag="vDqDj_KQ572lsd6sIr7p" type="github"><diagram id="a14CYx5MqUCuxmLfm-Gx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-19T23:05:03.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Td9dM-n2fn-HJjE7JDHq" version="16.4.0" type="github">
+  <diagram id="a14CYx5MqUCuxmLfm-Gx" name="Page-1">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fvYvR00y0DX-HRg1KsA5-1" value="Storage Account" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iOSIgeTE9IjE1LjgzIiB4Mj0iOSIgeTI9IjUuNzkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNiM2IzYjMiLz48c3RvcCBvZmZzZXQ9Ii4yNiIgc3RvcC1jb2xvcj0iI2MxYzFjMSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2U2ZTZlNiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGQ9Ik0uNSA1Ljc5aDE3djkuNDhhLjU3LjU3IDAgMDEtLjU3LjU3SDEuMDdhLjU3LjU3IDAgMDEtLjU3LS41N1Y1Ljc5eiIgZmlsbD0idXJsKCNhKSIvPjxwYXRoIGQ9Ik0xLjA3IDIuMTdoMTUuODZhLjU3LjU3IDAgMDEuNTcuNTd2My4wNUguNVYyLjczYS41Ny41NyAwIDAxLjU3LS41NnoiIGZpbGw9IiMzN2MyYjEiLz48cGF0aCBkPSJNMi44MSA2Ljg5aDEyLjM3YS4yNy4yNyAwIDAxLjI2LjI3djEuNGEuMjcuMjcgMCAwMS0uMjYuMjdIMi44MWEuMjcuMjcgMCAwMS0uMjYtLjI3di0xLjRhLjI3LjI3IDAgMDEuMjYtLjI3eiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0yLjgyIDkuNjhoMTIuMzdhLjI3LjI3IDAgMDEuMjYuMjd2MS40MWEuMjcuMjcgMCAwMS0uMjYuMjdIMi44MmEuMjcuMjcgMCAwMS0uMjYtLjI3VjEwYS4yNy4yNyAwIDAxLjI2LS4zMnoiIGZpbGw9IiMzN2MyYjEiLz48cGF0aCBkPSJNMi44MiAxMi41aDEyLjM3YS4yNy4yNyAwIDAxLjI2LjI3djEuNDFhLjI3LjI3IDAgMDEtLjI2LjI3SDIuODJhLjI3LjI3IDAgMDEtLjI2LS4yN3YtMS40MWEuMjcuMjcgMCAwMS4yNi0uMjd6IiBmaWxsPSIjMjU4Mjc3Ii8+PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
