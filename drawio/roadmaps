@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T10:23:38.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Szcy8jZstwS_XILUVjD_" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T10:23:59.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ieV4kwkZvCRgYkD493hK" version="16.2.7" type="github">
   <diagram id="p9xeP8e23zRgJ20y257c" name="Page-1">
     <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="_nTZe7LtnWCkRA3dKUVK-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3Lv9x3WWMOirODoJr_KJ-10" target="_nTZe7LtnWCkRA3dKUVK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Lv9x3WWMOirODoJr_KJ-10" value="Azure Password Regels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-10" value="Azure Password Regels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Lv9x3WWMOirODoJr_KJ-11" target="3Lv9x3WWMOirODoJr_KJ-19" edge="1">
@@ -85,7 +85,7 @@
         <mxCell id="3Lv9x3WWMOirODoJr_KJ-28" value="Review RnR Matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="10" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Lv9x3WWMOirODoJr_KJ-29" value="Develop function App for openshift request" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="3Lv9x3WWMOirODoJr_KJ-29" value="Develop function App for openshift request" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nTZe7LtnWCkRA3dKUVK-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_nTZe7LtnWCkRA3dKUVK-1" target="_nTZe7LtnWCkRA3dKUVK-2" edge="1">
