@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T09:16:37.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="cc1rBb5Or4BMngMCFWe6" version="16.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-20T09:17:26.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="emYEfQWwSPJOVMsFWaZo" version="16.4.2" type="github" pages="2">
   <diagram id="p9xeP8e23zRgJ20y257c" name="todos">
     <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
       <root>
         <mxCell id="s-hgeLTThPP8O3xUd9iu-0" />
         <mxCell id="s-hgeLTThPP8O3xUd9iu-1" parent="s-hgeLTThPP8O3xUd9iu-0" />
+        <mxCell id="s-hgeLTThPP8O3xUd9iu-2" value="Virtual Network&lt;br&gt;(VNET)" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="s-hgeLTThPP8O3xUd9iu-1">
+          <mxGeometry x="260" y="360" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
