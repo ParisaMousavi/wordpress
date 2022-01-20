@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T09:16:26.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pfVnwpWp7J6UrV-A0tSw" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T09:16:37.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="cc1rBb5Or4BMngMCFWe6" version="16.4.2" type="github" pages="2">
   <diagram id="p9xeP8e23zRgJ20y257c" name="todos">
     <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,14 @@
         <mxCell id="rK6l5o6P0RgNOGCijSDB-1" value="Access Revirew" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rQ6MTW_YTrn4JHD_czXp" name="strategy">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="s-hgeLTThPP8O3xUd9iu-0" />
+        <mxCell id="s-hgeLTThPP8O3xUd9iu-1" parent="s-hgeLTThPP8O3xUd9iu-0" />
       </root>
     </mxGraphModel>
   </diagram>
