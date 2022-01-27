@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T08:18:49.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="D0977QV1nKvQpm1SDNel" version="16.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-27T07:16:25.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="hlTObLKPKuu5ALbWapa-" version="16.4.5" type="github" pages="6">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
-    <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DCTbe4xi6KHfysZgriPF-0" />
         <mxCell id="DCTbe4xi6KHfysZgriPF-1" parent="DCTbe4xi6KHfysZgriPF-0" />
@@ -330,6 +330,38 @@
           <mxGeometry x="404" width="202" height="289" as="geometry">
             <mxRectangle width="202" height="289" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ITp54mNz87UT82m4G2C0" name="defender-c">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-0" />
+        <mxCell id="qvGkXs6axW07ixtuzbG9-1" parent="qvGkXs6axW07ixtuzbG9-0" />
+        <mxCell id="qvGkXs6axW07ixtuzbG9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qvGkXs6axW07ixtuzbG9-1" source="qvGkXs6axW07ixtuzbG9-2" target="qvGkXs6axW07ixtuzbG9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qvGkXs6axW07ixtuzbG9-1" source="qvGkXs6axW07ixtuzbG9-2" target="qvGkXs6axW07ixtuzbG9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qvGkXs6axW07ixtuzbG9-1" source="qvGkXs6axW07ixtuzbG9-2" target="qvGkXs6axW07ixtuzbG9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-2" value="Microsoft Defender for Cloud" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Defender.svg;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="380" y="360" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-3" value="On-Prem" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/68_bulding_office_skyscaper_tower-128.png" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="10" y="330" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-5" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="14" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-6" value="GCP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="10" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-9" value="&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- find and fix security vulnerabilities, &lt;br&gt;- apply access and application controls to block malicious activity, &lt;br&gt;- detect threats using analytics and intelligence, &lt;br&gt;- and respond quickly when under attack&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="330" y="450" width="550" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
