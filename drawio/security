@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T07:16:25.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="hlTObLKPKuu5ALbWapa-" version="16.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-27T07:19:44.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="APCGf5WzgaukRbp3zRKC" version="16.4.5" type="github" pages="6">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -362,6 +362,21 @@
         </mxCell>
         <mxCell id="qvGkXs6axW07ixtuzbG9-9" value="&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- find and fix security vulnerabilities, &lt;br&gt;- apply access and application controls to block malicious activity, &lt;br&gt;- detect threats using analytics and intelligence, &lt;br&gt;- and respond quickly when under attack&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
           <mxGeometry x="330" y="450" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-10" value="Defender for Cloud enabled on your Azure subscriptions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="436" y="348" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-11" value="Enhanced security features enabled on your Azure subscriptions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="570" y="348" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-12" value="Automatic data collection set up" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="704" y="348" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-13" value="Email notifications set up for security alerts" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="838" y="348" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGkXs6axW07ixtuzbG9-14" value="our hybrid and multi-cloud machines connected to Azure" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="972" y="348" width="134" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
