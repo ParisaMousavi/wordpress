@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T09:57:28.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="SOXEsgQtEJtLOMy8jou8" version="16.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-27T10:57:25.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="GHApHZXO6KehicPKTXds" version="16.4.5" type="github" pages="6">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ITp54mNz87UT82m4G2C0" name="defender-c">
-    <mxGraphModel dx="4063" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qvGkXs6axW07ixtuzbG9-0" />
         <mxCell id="qvGkXs6axW07ixtuzbG9-1" parent="qvGkXs6axW07ixtuzbG9-0" />
@@ -464,6 +464,12 @@
         </mxCell>
         <mxCell id="8CWiHYRyiFAK6dQ3zeOf-15" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
           <mxGeometry x="1370" y="585" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-16" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="1500" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-17" value="Environment setting &amp;gt; policies &amp;gt; then check DfC &amp;gt; Recommendations" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="1530" y="30" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
