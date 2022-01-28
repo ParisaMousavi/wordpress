@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T13:28:20.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="At7xVQAYhXsmwufDdF1M" version="16.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-28T06:34:22.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="uMfBH6vsfz6IsEjJQeSE" version="16.4.5" type="github" pages="6">
   <diagram id="DSa9DEZJ3Xqo3AxFFW04" name="responsibilities">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ITp54mNz87UT82m4G2C0" name="defender-c">
-    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qvGkXs6axW07ixtuzbG9-0" />
         <mxCell id="qvGkXs6axW07ixtuzbG9-1" parent="qvGkXs6axW07ixtuzbG9-0" />
@@ -381,7 +381,7 @@
         <mxCell id="qvGkXs6axW07ixtuzbG9-12" value="Automatic data collection set up" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="608" y="520" width="222" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qvGkXs6axW07ixtuzbG9-1" source="qvGkXs6axW07ixtuzbG9-13" target="8CWiHYRyiFAK6dQ3zeOf-6">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="qvGkXs6axW07ixtuzbG9-1" source="qvGkXs6axW07ixtuzbG9-13" target="8CWiHYRyiFAK6dQ3zeOf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvGkXs6axW07ixtuzbG9-13" value="Email notifications set up for security alerts" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
@@ -444,32 +444,35 @@
         <mxCell id="s-qG99KgGJC-qnATGyGl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#EB0000;strokeWidth=4;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="1420" y="900" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-0" value="&lt;span style=&quot;font-size: 12px&quot;&gt;- Configure &lt;b&gt;Environment Setting&lt;/b&gt; &amp;gt; then check &lt;b&gt;Log Analytics Workspace&lt;/b&gt; &amp;gt; &lt;b&gt;Solution&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-0" value="&lt;span style=&quot;font-size: 12px&quot;&gt;- Configure &lt;b&gt;Environment Setting&lt;/b&gt; &amp;gt; then check &lt;b&gt;Log Analytics Workspace&lt;/b&gt; &amp;gt; &lt;b&gt;Solution&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="1230" y="1230" width="950" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-1" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-1" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="1066" y="585" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-6" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Environment Setting &amp;gt; Email notification&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-6" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Environment Setting &amp;gt; Email notification&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="848.5" y="625" width="243" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qvGkXs6axW07ixtuzbG9-1" source="8CWiHYRyiFAK6dQ3zeOf-10" target="8CWiHYRyiFAK6dQ3zeOf-11">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qvGkXs6axW07ixtuzbG9-1" source="8CWiHYRyiFAK6dQ3zeOf-10" target="8CWiHYRyiFAK6dQ3zeOf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-10" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Environment Setting &amp;gt; Auto response Workflow&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-10" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Environment Setting &amp;gt; Auto response Workflow&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="838.5" y="660" width="271.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-11" value="Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-11" value="Logic App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="951.06" y="720" width="46.38" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-15" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-15" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="1370" y="585" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-16" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-16" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="1500" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-17" value="Environment setting &amp;gt; policies &amp;gt; then check DfC &amp;gt; Recommendations" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+        <mxCell id="8CWiHYRyiFAK6dQ3zeOf-17" value="Environment setting &amp;gt; policies &amp;gt; then check DfC &amp;gt; Recommendations" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="qvGkXs6axW07ixtuzbG9-1" vertex="1">
           <mxGeometry x="1530" y="30" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6g496nqN7dFnWY8dYX46-0" value="Manage VM access" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingTop=0;spacingLeft=13;spacingRight=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="qvGkXs6axW07ixtuzbG9-1">
+          <mxGeometry x="1530" y="125" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
