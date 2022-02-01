@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T21:50:36.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="dbuiE_oYUzA0LLa01NOr" version="16.2.4" type="github"><diagram id="cd5pNDrRVSPDS-pt2z1M" name="Page-1">dZHBDoMgDIafhjtCXHZ3brvs5GFnIp2QoDWI0e3ppwHmiFvCoXz9/7ZpCS/a+WJFr24owRBG5Uz4iTCWUcbI+qh8epLzgweN1TKINlDpF0RnoKOWMCRCh2ic7lNYY9dB7RImrMUplT3QpF170cAOVLUwe3rX0ilPjznd+BV0o2LnjIZMK6I4gEEJidMX4iXhhUV0PmrnAsy6vLgX7zv/yX4Gs9C5H4Yl2Govn+RCvHwD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-01T21:53:01.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="1YUlpqLOnzEQ7pfAvxQg" version="16.2.4" type="github">
+  <diagram id="cd5pNDrRVSPDS-pt2z1M" name="Page-1">
+    <mxGraphModel dx="1022" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-2" value="&lt;a href=&quot;https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf&quot;&gt;Security checklist&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
