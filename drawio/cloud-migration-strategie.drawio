@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T22:40:04.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="9VzqTgBa4V2lexq5xg5X" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T22:48:15.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="E_Is9rH2eoyLAkLPTIvz" version="16.2.4" type="github">
   <diagram id="cd5pNDrRVSPDS-pt2z1M" name="strategy">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,6 +46,18 @@
         <mxCell id="YJfL9xpBGpE9jjsirG9W-11" value="Infrastructure protection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-62" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-15" target="YJfL9xpBGpE9jjsirG9W-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-15" target="YJfL9xpBGpE9jjsirG9W-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-15" target="YJfL9xpBGpE9jjsirG9W-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-15" target="YJfL9xpBGpE9jjsirG9W-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-15" value="Data protection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="860" width="120" height="60" as="geometry" />
         </mxCell>
@@ -53,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-16" value="Incident response" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-19" value="&lt;a href=&quot;https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf&quot;&gt;AWS Security Check list&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
@@ -134,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-46" value="Automated security best practices" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-49" value="Secure entire system,not just outer layers" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="910" y="510" width="120" height="60" as="geometry" />
@@ -155,7 +167,25 @@
           <mxGeometry x="910" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-59" value="Define the incident business proceses workflows" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-61" value="Protect data at rest &amp;amp; in transit" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-63" target="YJfL9xpBGpE9jjsirG9W-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-63" value="Use data encryption and appropriate key management" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-64" value="for files &amp;amp; relational / non-relational databases" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="840" y="930" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-67" value="Reduce human access to data to reduce risk or loss or modification" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-68" value="Audit data activities and define automated response" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
