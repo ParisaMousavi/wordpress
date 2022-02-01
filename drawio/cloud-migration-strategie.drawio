@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T22:04:51.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rPJxdhLJyW9S_MgGbLNX" version="16.2.4" type="github">
-  <diagram id="cd5pNDrRVSPDS-pt2z1M" name="Page-1">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-02-01T22:07:26.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="xlDJQzYozOUE-4vdyyni" version="16.2.4" type="github">
+  <diagram id="cd5pNDrRVSPDS-pt2z1M" name="strategy">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-3" target="YJfL9xpBGpE9jjsirG9W-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJfL9xpBGpE9jjsirG9W-3" target="YJfL9xpBGpE9jjsirG9W-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-3" value="Security check list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-16" value="Incident response" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-19" value="AWS Security Check list" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
