@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T22:14:29.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="4BgWzOLTh1eVAT5HENaE" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T22:16:30.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="WFGB_s2IzSKQDN4PDnuM" version="16.2.4" type="github">
   <diagram id="cd5pNDrRVSPDS-pt2z1M" name="strategy">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,17 +61,29 @@
         <mxCell id="YJfL9xpBGpE9jjsirG9W-22" value="Strong identity foundation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YJfL9xpBGpE9jjsirG9W-24" value="least privilege" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-24" value="least privilege" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="910" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YJfL9xpBGpE9jjsirG9W-26" value="Separation of duty" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-26" value="Separation of duty" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="910" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YJfL9xpBGpE9jjsirG9W-27" value="Centralized service management" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-27" value="Centralized service management" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="910" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YJfL9xpBGpE9jjsirG9W-28" value="Reduce relience on long-term credentials" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-28" value="Reduce relience on long-term credentials" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="910" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-32" value="AWS specific links/topics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-33" value="Azure specific links/topics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-34" value="GCP specific links/topics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfL9xpBGpE9jjsirG9W-35" value="Recommended solution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
