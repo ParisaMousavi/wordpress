@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T22:38:05.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="COoQgpWEPLzhbQQgwu-x" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T22:38:27.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ORNtS3qJUh5rnKjgzz-C" version="16.2.4" type="github">
   <diagram id="cd5pNDrRVSPDS-pt2z1M" name="strategy">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,10 +47,10 @@
           <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-15" value="Data protection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-16" value="Incident response" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJfL9xpBGpE9jjsirG9W-19" value="&lt;a href=&quot;https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf&quot;&gt;AWS Security Check list&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
