@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T21:29:48.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="F2tNtK0zo0EMhmu_x6kW" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T21:31:13.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="7fJNQjh0RTN6hoIrGqjw" version="16.5.3" type="github">
   <diagram id="cd5pNDrRVSPDS-pt2z1M" name="strategy">
     <mxGraphModel dx="1293" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="BeeJKXjpvOMPPVN1DQLn-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-12" source="BeeJKXjpvOMPPVN1DQLn-26" target="BeeJKXjpvOMPPVN1DQLn-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BeeJKXjpvOMPPVN1DQLn-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-12" source="BeeJKXjpvOMPPVN1DQLn-26" target="BeeJKXjpvOMPPVN1DQLn-57">
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-12" source="BeeJKXjpvOMPPVN1DQLn-26" target="BeeJKXjpvOMPPVN1DQLn-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BeeJKXjpvOMPPVN1DQLn-26" value="Infrastructure protection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="BeeJKXjpvOMPPVN1DQLn-12">
@@ -130,7 +130,13 @@
           <mxGeometry x="680" y="87" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeeJKXjpvOMPPVN1DQLn-57" value="Network, Subnet, SecurityGtoup, VPN, Firewall, WAF,..." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="BeeJKXjpvOMPPVN1DQLn-12">
-          <mxGeometry x="1130" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-12" source="BeeJKXjpvOMPPVN1DQLn-59" target="BeeJKXjpvOMPPVN1DQLn-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-59" value="Network Security" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="BeeJKXjpvOMPPVN1DQLn-12">
+          <mxGeometry x="1320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1" value="solutions" style="locked=1;" parent="0" />
         <mxCell id="YJfL9xpBGpE9jjsirG9W-19" value="&lt;a href=&quot;https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf&quot;&gt;AWS Security Check list&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
