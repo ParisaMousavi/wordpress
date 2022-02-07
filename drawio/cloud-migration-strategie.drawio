@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T19:41:32.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="9zrftVHTYNPk-4Ho-Bss" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T19:42:41.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="bUPBlon4uJxordbKVJ8f" version="16.5.3" type="github">
   <diagram id="cd5pNDrRVSPDS-pt2z1M" name="strategy">
-    <mxGraphModel dx="1422" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -226,6 +226,18 @@
         </mxCell>
         <mxCell id="BeeJKXjpvOMPPVN1DQLn-4" value="Design user authentication" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="BeeJKXjpvOMPPVN1DQLn-1">
           <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-1" source="BeeJKXjpvOMPPVN1DQLn-5" target="BeeJKXjpvOMPPVN1DQLn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-1" source="BeeJKXjpvOMPPVN1DQLn-5" target="BeeJKXjpvOMPPVN1DQLn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BeeJKXjpvOMPPVN1DQLn-1" source="BeeJKXjpvOMPPVN1DQLn-5" target="BeeJKXjpvOMPPVN1DQLn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeeJKXjpvOMPPVN1DQLn-5" value="" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="BeeJKXjpvOMPPVN1DQLn-1">
+          <mxGeometry x="470" y="150" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
