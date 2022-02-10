@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T16:23:19.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="wbFioMw1nem0t4bF7WBX" version="16.5.4" type="github"><diagram id="l4-DT1iNeIAKmukGAbmH" name="Page-1">zZRBb4MgFIB/DcclAp3trmu79bJkSQ89E3kVUhRDn1X364cTa51p0h22LvEA33s84Hsq4cusfnWiUG9WgiEskjXhK8IYnTFG2ieSTUfmjHYgdVqGpAFs9QcEGAVaagnHUSJaa1AXY5jYPIcER0w4Z6tx2t6a8a6FSGECtokwU7rTElVHF2w+8A3oVPU70/ipi2SiTw43OSohbXWB+JrwpbMWu1FWL8G08nov3bqXK9HzwRzkeNOCTbmYU1RFFS/S1el9t09XD6HKSZgyXPgATWKsOIRDY9ObcLbMJbTFIsKfK6URtoVI2mjle++Zwsz4GfXDUBYcQn31vPRswb8+YDNA1/iUfsFjENd8m1dDH2gvV130IA5MhNan59KDHT8Ign4gi01kORAm+3emGL/R1Oy3TPGJKYRc+NvcWxWnf6fKT4ev+yt28Y/k608=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-10T16:36:23.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="WRkdLtX5jOPg2HKbHwZ8" version="16.5.4" type="github">
+  <diagram id="l4-DT1iNeIAKmukGAbmH" name="Page-1">
+    <mxGraphModel dx="1422" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Hu871thpw68gDvPWfgD-1" value="keycloak" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyzJd022c3iJf4BqlskC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Hu871thpw68gDvPWfgD-2" target="cyzJd022c3iJf4BqlskC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hu871thpw68gDvPWfgD-2" value="realm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hu871thpw68gDvPWfgD-3" value="tenant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyzJd022c3iJf4BqlskC-1" value="user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyzJd022c3iJf4BqlskC-3" value="it has an admin login console&lt;br&gt;http://localhost:8080/auth/" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyzJd022c3iJf4BqlskC-4" value="it has an account login console&lt;br&gt;http://localhost:8080/auth/realms/tenanta/account" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="260" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
