@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T20:13:52.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3T-lD7SxYrJ_hHV9OSFt" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T20:17:23.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ic5InnWEDivCsX_W8D4t" version="17.1.0" type="github">
   <diagram id="cuhTsljI_HF5Cnu3ZseF" name="Page-1">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="CAPrlYotPy6mbk9Nvcnk-2" value="VPC&lt;br&gt;10.0.0.0/16" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="CAPrlYotPy6mbk9Nvcnk-1">
           <mxGeometry x="30" y="50" width="340" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="CAPrlYotPy6mbk9Nvcnk-3" value="Private subnet&lt;br&gt;10.0.0.0/24" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="CAPrlYotPy6mbk9Nvcnk-2">
+        <mxCell id="CAPrlYotPy6mbk9Nvcnk-3" value="Private subnet (zonal)&lt;br&gt;10.0.0.0/24" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="CAPrlYotPy6mbk9Nvcnk-2">
           <mxGeometry x="40" y="50" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CAPrlYotPy6mbk9Nvcnk-4" value="endpoint network interface&lt;br&gt;10.0.0.6" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_network_interface;fillColor=#F58534;gradientColor=none;" vertex="1" parent="CAPrlYotPy6mbk9Nvcnk-3">
@@ -29,10 +29,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAPrlYotPy6mbk9Nvcnk-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1BA1E2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="520" height="320" as="geometry" />
+          <mxGeometry x="80" y="480" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="CAPrlYotPy6mbk9Nvcnk-13" value="VNet&#xa;10.0.0.0/16" style="verticalLabelPosition=middle;verticalAlign=middle;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;sketch=0;fontColor=#1BA1E2;labelPosition=right;" vertex="1" parent="1">
+        <mxCell id="CAPrlYotPy6mbk9Nvcnk-13" value="VNet (regional)&#xa;10.0.0.0/16" style="verticalLabelPosition=middle;verticalAlign=middle;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;sketch=0;fontColor=#1BA1E2;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="90" y="490" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="CAPrlYotPy6mbk9Nvcnk-15" value="&lt;font color=&quot;#1ba1e2&quot;&gt;Subnet (regional)&lt;br&gt;10.0.0.0/24&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1BA1E2;fontColor=#ffffff;dashed=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CAPrlYotPy6mbk9Nvcnk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="CAPrlYotPy6mbk9Nvcnk-16" target="CAPrlYotPy6mbk9Nvcnk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CAPrlYotPy6mbk9Nvcnk-16" value="&lt;font color=&quot;#000000&quot;&gt;Private endpoint&lt;br&gt;10.0.0.6&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;fontColor=#1BA1E2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="600" width="57" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CAPrlYotPy6mbk9Nvcnk-17" value="Azure&lt;br&gt;Services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="589" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
