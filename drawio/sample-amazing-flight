@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T20:48:06.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Hsu88QXT0ElhqZKemtA5" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T20:54:48.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="n5fM-YhO8zIro1LtTk9Z" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="2370" dy="101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,6 +253,12 @@
         </mxCell>
         <mxCell id="NcnCHMBbYCPndGMrrN1n-22" value="Front door&lt;br&gt;Global" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Front_Doors.svg;" vertex="1" parent="1">
           <mxGeometry x="890" y="800" width="50" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="IJyQI_mwBDiitF3zMZlF-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;fontColor=#000000;strokeColor=#CC0000;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="807" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IJyQI_mwBDiitF3zMZlF-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;fontColor=#000000;strokeColor=#CC0000;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="793" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
