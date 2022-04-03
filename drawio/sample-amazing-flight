@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T19:54:50.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="rEPfE3IX8Y9Bbv_2fu67" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T19:55:08.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="cD2KNiyAw81iyS9sq_hr" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,13 +27,13 @@
         <mxCell id="NcnCHMBbYCPndGMrrN1n-1" value="Subcription Management" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="190" width="660" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="NcnCHMBbYCPndGMrrN1n-2" value="Subscription Dev" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="NcnCHMBbYCPndGMrrN1n-2" value="Subscription Dev" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="660" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="NcnCHMBbYCPndGMrrN1n-3" value="Subscription Acc" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="NcnCHMBbYCPndGMrrN1n-3" value="Subscription Acc" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="400" width="660" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="NcnCHMBbYCPndGMrrN1n-4" value="Subscription Prod" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="NcnCHMBbYCPndGMrrN1n-4" value="Subscription Prod" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="1420" y="400" width="660" height="200" as="geometry" />
         </mxCell>
       </root>
