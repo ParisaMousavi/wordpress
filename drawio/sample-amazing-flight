@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T19:49:54.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="5xKVdBByG_JNrSw7JLoo" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T19:50:30.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="JhEEnbzd0j4DQ4NxvGwJ" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="ys7Hqoo5qjAPrnQhQ-_g-1" value="Germany west center" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="650" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="XnNVtDfEcTH7NRCW79f8-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Front_Doors.svg;" vertex="1" parent="1">
+        <mxCell id="XnNVtDfEcTH7NRCW79f8-1" value="Front door&lt;br&gt;Global" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Front_Doors.svg;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="50" height="44" as="geometry" />
         </mxCell>
       </root>
