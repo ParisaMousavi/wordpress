@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T10:00:57.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="pg-S_I2D4KDK8HKCtoVK" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-05T10:01:24.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="7q37MdZICIh-ppy3oM-o" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="1422" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
         <mxCell id="lU2ZQlxGQMY0-EMPktVY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lU2ZQlxGQMY0-EMPktVY-1" target="lU2ZQlxGQMY0-EMPktVY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lU2ZQlxGQMY0-EMPktVY-7" value="password hash synchronization" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lU2ZQlxGQMY0-EMPktVY-4">
+        <mxCell id="lU2ZQlxGQMY0-EMPktVY-7" value="AD Connect&lt;br&gt;password hash synchronization" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lU2ZQlxGQMY0-EMPktVY-4">
           <mxGeometry x="-0.2679" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
