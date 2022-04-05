@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T10:34:14.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="QGS7aMwjDoRFTNOWoVkK" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-05T10:35:53.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="TkdnZGhjQlJThjSZrGx_" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="1422" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,12 +197,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4Rla5SQ9y_KeEG705pIR" name="azure">
-    <mxGraphModel dx="1237" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_AMKTn2G9aV1z4KkZtOI-1" value="Germany west center (Frankfurt)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="40" y="340" width="2260" height="980" as="geometry" />
+          <mxGeometry x="40" y="340" width="2400" height="980" as="geometry" />
         </mxCell>
         <mxCell id="NcnCHMBbYCPndGMrrN1n-1" value="Subcription Management" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="750" y="418" width="660" height="230" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry x="750" y="788" width="660" height="200" as="geometry" />
         </mxCell>
         <mxCell id="NcnCHMBbYCPndGMrrN1n-4" value="Subscription Prod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFD966;verticalAlign=top;align=left;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="788" width="830" height="492" as="geometry" />
+          <mxGeometry x="1430" y="788" width="940" height="492" as="geometry" />
         </mxCell>
         <mxCell id="NcnCHMBbYCPndGMrrN1n-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#36DDFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="818" width="440" height="150" as="geometry" />
@@ -364,7 +364,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QXLyOlAic8YNxGRp0p7p-14" value="Internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;labelBackgroundColor=none;fontSize=14;strokeColor=#FFD966;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="1072" width="50" height="50" as="geometry" />
+          <mxGeometry x="2490" y="1072.25" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QXLyOlAic8YNxGRp0p7p-16" value="Subnet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1147.1" width="147.06" height="59.9" as="geometry" />
@@ -419,6 +419,9 @@
         </mxCell>
         <mxCell id="QXLyOlAic8YNxGRp0p7p-33" value="metrics &amp;amp; logs of services" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2093" y="930" width="150" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QXLyOlAic8YNxGRp0p7p-35" value="Azure Policy&#xa;Subscription level" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJlMGMyYTJmMC1lNjQ3LTRmMDEtYjkxYi1hZmI3YmYxNTA0MGQiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImE3ZjczMWE5LTVjNTgtNDRmNC04MDM3LTNjMzYyN2U5ODAwOCIgeDE9IjguNDUiIHkxPSIxMS40NyIgeDI9IjguNDUiIHkyPSI2LjI0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTk4YWIzIi8+PHN0b3Agb2Zmc2V0PSIwLjE2IiBzdG9wLWNvbG9yPSIjMWY5YWMyIi8+PHN0b3Agb2Zmc2V0PSIwLjUiIHN0b3AtY29sb3I9IiMyOWJhZGUiLz48c3RvcCBvZmZzZXQ9IjAuOCIgc3RvcC1jb2xvcj0iIzMwY2RlZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzMyZDRmNSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjx0aXRsZT5JY29uLW1hbmFnZS0zMTY8L3RpdGxlPjxlbGxpcHNlIGN4PSI4LjQ1IiBjeT0iOC44NSIgcng9IjIuNiIgcnk9IjIuNjEiIGZpbGw9InVybCgjYTdmNzMxYTktNWM1OC00NGY0LTgwMzctM2MzNjI3ZTk4MDA4KSIvPjxlbGxpcHNlIGN4PSIxNS43MyIgY3k9IjQuNzciIHJ4PSIxLjI3IiByeT0iMS4yOCIgZmlsbD0iIzMyYmVkZCIvPjxlbGxpcHNlIGN4PSIxNS43MyIgY3k9IjguOTUiIHJ4PSIxLjI3IiByeT0iMS4yOCIgZmlsbD0iIzMyYmVkZCIvPjxlbGxpcHNlIGN4PSIxNS43MyIgY3k9IjEzLjEyIiByeD0iMS4yNyIgcnk9IjEuMjgiIGZpbGw9IiMzMmJlZGQiLz48ZWxsaXBzZSBjeD0iMTIuODMiIGN5PSI2LjkxIiByeD0iMS4yNyIgcnk9IjEuMjgiIGZpbGw9IiM1MGU2ZmYiLz48ZWxsaXBzZSBjeD0iMTIuODMiIGN5PSIxMS4wOSIgcng9IjEuMjciIHJ5PSIxLjI4IiBmaWxsPSIjNTBlNmZmIi8+PHBhdGggZD0iTTIuNDEsNS41OEEuMjQuMjQsMCwwLDEsMi41LDUuNUw4LjMyLDIuMTFjLjA4LDAsNSwyLjc4LDUsMi43OGEuMjQuMjQsMCwwLDAsLjM2LS4yMVYzLjU5YS4yNC4yNCwwLDAsMC0uMTItLjIxUzguNC40Niw4LjMzLjVMMS4xMSw0LjY0LDEsNC43MloiIGZpbGw9IiM5NDk0OTQiLz48cGF0aCBkPSJNMTMuMywxMy4xNCw4LjU2LDE1Ljg3YS4zNS4zNSwwLDAsMS0uMTEsMHYxLjZhLjIuMiwwLDAsMCwuMTEsMGw1LTIuODZhLjI0LjI0LDAsMCwwLC4xMi0uMlYxMy4zNUEuMjQuMjQsMCwwLDAsMTMuMywxMy4xNFoiIGZpbGw9IiM5NDk0OTQiLz48cGF0aCBkPSJNOC40NSwxNS45YS4zMS4zMSwwLDAsMS0uMTMsMEwyLjUsMTIuNDdhLjIyLjIyLDAsMCwxLS4xMi0uMlY1LjdhLjI3LjI3LDAsMCwxLDAtLjEyTDEsNC43MmEuMjguMjgsMCwwLDAsMCwuMTN2OC4yN2EuMjQuMjQsMCwwLDAsLjExLjIxbDcuMjIsNC4xNGEuMjQuMjQsMCwwLDAsLjEyLDBaIiBmaWxsPSIjYjNiM2IzIi8+PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="815" width="49" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
