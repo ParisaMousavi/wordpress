@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T09:47:52.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8P5Ydhc1PZDthcX1HLzG" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:51:21.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ZPd0LlSTsh3KI0Muru6p" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="1422" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4Rla5SQ9y_KeEG705pIR" name="azure">
-    <mxGraphModel dx="2188" dy="2341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="2554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
           <mxGeometry x="2290" y="1114.75" width="50" height="44" as="geometry" />
         </mxCell>
         <mxCell id="IJyQI_mwBDiitF3zMZlF-2" value="Private DNS" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;fontColor=#000000;strokeColor=#CC0000;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="432" width="45" height="45" as="geometry" />
+          <mxGeometry x="1330" y="435.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IJyQI_mwBDiitF3zMZlF-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;fontColor=#000000;strokeColor=#CC0000;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1330" y="508" width="40" height="40" as="geometry" />
@@ -473,6 +473,9 @@
         </mxCell>
         <mxCell id="3zZuDcxW5isrit8nY9Kl-7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;No&amp;nbsp;&lt;/b&gt;&lt;b&gt;direct route to Internet&lt;/b&gt;&lt;br&gt;the default route to the Internet is replace with the default route to the Firewall&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1077" width="198" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3zZuDcxW5isrit8nY9Kl-8" value="Alets for budget, etc." style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=default;verticalAlign=middle;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJlNGU3NjRjZC0yZTczLTQ3MmYtYjg4YS1iZjhiZmMyYzI5OTQiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij48ZGVmcz48cmFkaWFsR3JhZGllbnQgaWQ9ImFjOGIzMmRhLTMwY2EtNGI5Mi04ZDBmLThkMmQ1ZWYyNzhhMCIgY3g9IjUuNzIiIGN5PSI3LjQ1IiByPSI4LjQyIiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDMuMjMgMS41MSkgc2NhbGUoMS4wMSAxLjAxKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4xOCIgc3RvcC1jb2xvcj0iIzVlYTBlZiIvPjxzdG9wIG9mZnNldD0iMC41NiIgc3RvcC1jb2xvcj0iIzVjOWZlZSIvPjxzdG9wIG9mZnNldD0iMC42OSIgc3RvcC1jb2xvcj0iIzU1OWNlZCIvPjxzdG9wIG9mZnNldD0iMC43OCIgc3RvcC1jb2xvcj0iIzRhOTdlOSIvPjxzdG9wIG9mZnNldD0iMC44NiIgc3RvcC1jb2xvcj0iIzM5OTBlNCIvPjxzdG9wIG9mZnNldD0iMC45MyIgc3RvcC1jb2xvcj0iIzIzODdkZSIvPjxzdG9wIG9mZnNldD0iMC45OSIgc3RvcC1jb2xvcj0iIzA4N2JkNiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwNzhkNCIvPjwvcmFkaWFsR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJhOTk1NDgyMC1jYjM4LTQ5NDMtOTg0Mi1mMGE1NjhkMmIwMTUiIGN4PSIyOC4xOCIgY3k9IjIwMi4yOSIgcj0iMi43IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNy43NyAtMTg1LjAxKSBzY2FsZSgwLjk1KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4xOSIgc3RvcC1jb2xvcj0iIzhjOGU5MCIvPjxzdG9wIG9mZnNldD0iMC4zNSIgc3RvcC1jb2xvcj0iIzg0ODY4OCIvPjxzdG9wIG9mZnNldD0iMC42IiBzdG9wLWNvbG9yPSIjNmU3MDcxIi8+PHN0b3Agb2Zmc2V0PSIwLjkxIiBzdG9wLWNvbG9yPSIjNGE0YjRjIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjM2UzZjNmIi8+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PHRpdGxlPkljb24tbWFuYWdlLTMxNzwvdGl0bGU+PGVsbGlwc2UgY3g9IjkiIGN5PSI5IiByeD0iOC41IiByeT0iOC40NyIgZmlsbD0idXJsKCNhYzhiMzJkYS0zMGNhLTRiOTItOGQwZi04ZDJkNWVmMjc4YTApIi8+PGVsbGlwc2UgY3g9IjkiIGN5PSI5IiByeD0iNy40IiByeT0iNy4zNyIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0yLjcyLDkuNDRhNi4yNCw2LjI0LDAsMCwwLDEuODIsNGwyLTJhMy41MywzLjUzLDAsMCwxLTEtMloiIGZpbGw9IiM5Y2ViZmYiLz48cGF0aCBkPSJNMTMuMTMsNC4yN0E2LjI1LDYuMjUsMCwwLDAsOS40NCwyLjc0VjUuNTNhMy40MSwzLjQxLDAsMCwxLDEuNzEuN1oiIGZpbGw9IiMzMmJlZGQiLz48cGF0aCBkPSJNNC44Nyw0LjI3bDIsMmEzLjQxLDMuNDEsMCwwLDEsMS43MS0uN1YyLjc0QTYuMjUsNi4yNSwwLDAsMCw0Ljg3LDQuMjdaIiBmaWxsPSIjMzJiZWRkIi8+PHBhdGggZD0iTTExLjc4LDYuODVhMy42LDMuNiwwLDAsMSwuNzEsMS43MWgyLjc5YTYuMTYsNi4xNiwwLDAsMC0xLjUzLTMuNjdaIiBmaWxsPSIjMzJiZWRkIi8+PHBhdGggZD0iTTYuMjIsNi44NWwtMi0yQTYuMTYsNi4xNiwwLDAsMCwyLjcyLDguNTZINS41MUEzLjYsMy42LDAsMCwxLDYuMjIsNi44NVoiIGZpbGw9IiM1MGU2ZmYiLz48cGF0aCBkPSJNMTQuMTQsN2EuNDUuNDUsMCwwLDAtLjU3LS4yNUw5LjQ1LDguNDFsLjMyLjgxLDQuMTItMS42M0EuNDQuNDQsMCwwLDAsMTQuMTQsN1oiIGZpbGw9IiNmMDQwNDkiLz48ZWxsaXBzZSBjeD0iOSIgY3k9IjkiIHJ4PSIxLjIiIHJ5PSIxLjIiIGZpbGw9InVybCgjYTk5NTQ4MjAtY2IzOC00OTQzLTk4NDItZjBhNTY4ZDJiMDE1KSIvPjwvc3ZnPg==;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="330" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
