@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T09:46:00.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="dkGR5y8Bqi3XfqnZ_ZLH" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:47:52.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8P5Ydhc1PZDthcX1HLzG" version="17.4.0" type="github" pages="2">
   <diagram id="oX3Vupwrs5Ft8vLGf2B-" name="aws">
     <mxGraphModel dx="1422" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4Rla5SQ9y_KeEG705pIR" name="azure">
-    <mxGraphModel dx="1237" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="2341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,6 +470,9 @@
         </mxCell>
         <mxCell id="3zZuDcxW5isrit8nY9Kl-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;No&amp;nbsp;&lt;/b&gt;&lt;b&gt;direct route to Subnet-Spokes&lt;/b&gt;&lt;br&gt;Because Spoke1 and Spoke2 are not Peered, there is no direct routing possible.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1012.25" width="198" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3zZuDcxW5isrit8nY9Kl-7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;No&amp;nbsp;&lt;/b&gt;&lt;b&gt;direct route to Internet&lt;/b&gt;&lt;br&gt;the default route to the Internet is replace with the default route to the Firewall&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1077" width="198" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
