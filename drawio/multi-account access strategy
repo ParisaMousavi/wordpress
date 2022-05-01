@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T08:57:59.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Fq7K42vC8KQG7mjhmfaC" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T08:58:52.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fo0UV7QqQeha-wofZrYG" version="17.5.0" type="github">
   <diagram id="NenZd3ZoMSaGOHwKo06v" name="Page-1">
     <mxGraphModel dx="782" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="Kiiuk1HSpZZKeAUxugUb-2" value="On-premises AD" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-3" value="multi-account access strategy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="570" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
