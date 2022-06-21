@@ -1,28 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T09:40:26.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hqJF765oBp0mTG7Wn3wo" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T17:09:37.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="_Q_oW8LqIlmP833KgycV" version="18.1.2" type="github">
   <diagram id="NenZd3ZoMSaGOHwKo06v" name="Page-1">
-    <mxGraphModel dx="447" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kiiuk1HSpZZKeAUxugUb-1" value="Enterprise&lt;br&gt;Organization" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.enterprise;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-1" value="Enterprise&lt;br&gt;Organization" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.enterprise;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="120" width="50" height="83.33" as="geometry" />
         </mxCell>
-        <mxCell id="Kiiuk1HSpZZKeAUxugUb-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.109;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Kiiuk1HSpZZKeAUxugUb-2" target="Kiiuk1HSpZZKeAUxugUb-4">
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.109;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" parent="1" source="Kiiuk1HSpZZKeAUxugUb-2" target="Kiiuk1HSpZZKeAUxugUb-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kiiuk1HSpZZKeAUxugUb-7" value="corporate credentials &lt;br&gt;to access the AWS Console" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Kiiuk1HSpZZKeAUxugUb-6">
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-7" value="corporate credentials &lt;br&gt;to access the AWS Console" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="Kiiuk1HSpZZKeAUxugUb-6" vertex="1" connectable="0">
           <mxGeometry x="0.2077" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kiiuk1HSpZZKeAUxugUb-2" value="On-premises AD" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;" vertex="1" parent="1">
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-2" value="On-premises AD" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;" parent="1" vertex="1">
           <mxGeometry x="170" y="250" width="50" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="Kiiuk1HSpZZKeAUxugUb-3" value="multi-account access strategy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-3" value="multi-account access strategy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kiiuk1HSpZZKeAUxugUb-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;AWS AD&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.active_directory;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Kiiuk1HSpZZKeAUxugUb-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;AWS AD&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.active_directory;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="500" y="250" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="dLZaol5QALVFiqaGBwUl-1" value="Master AWS Account&lt;br&gt;(Organisation)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="74" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dLZaol5QALVFiqaGBwUl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dLZaol5QALVFiqaGBwUl-2" target="dLZaol5QALVFiqaGBwUl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLZaol5QALVFiqaGBwUl-2" value="AWS Account&lt;br&gt;Organisation Unit (OU)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" vertex="1" parent="1">
+          <mxGeometry x="234" y="580" width="74" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dLZaol5QALVFiqaGBwUl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dLZaol5QALVFiqaGBwUl-3" target="dLZaol5QALVFiqaGBwUl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLZaol5QALVFiqaGBwUl-3" value="AWS Account&lt;br&gt;Organisation Unit (OU)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="74" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
