@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:13:25.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6M3EDMw6ud74nsyWgnTn" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-22T19:13:44.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cL1JFTRKj2hdmHbVZGpv" version="20.0.1" type="github" pages="2">
   <diagram id="H8IbT2YckjbfvPU9S4iK" name="Page-1">
     <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
         <mxCell id="J_aylrsw94AWlPXVVidQ-13" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Azure diagnostics extension&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="232.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J_aylrsw94AWlPXVVidQ-16" value="collect monitoring data&lt;br&gt;for Azure VMS + Other" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-15" target="J_aylrsw94AWlPXVVidQ-9">
+        <mxCell id="J_aylrsw94AWlPXVVidQ-16" value="collect monitoring data&lt;br&gt;for Azure VMS + Other&lt;br&gt;(Logs)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-15" target="J_aylrsw94AWlPXVVidQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_aylrsw94AWlPXVVidQ-15" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Log Analytics agent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
