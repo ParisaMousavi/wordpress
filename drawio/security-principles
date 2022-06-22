@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:17:50.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="i6NM-Pcq59hKoNclt8zB" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-22T19:19:41.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PD47ddN81D3ZfdBMTseL" version="20.0.1" type="github" pages="2">
   <diagram id="H8IbT2YckjbfvPU9S4iK" name="Page-1">
     <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
           <mxGeometry x="704" y="-20" width="56.00000000000001" height="68" as="geometry" />
         </mxCell>
         <mxCell id="J_aylrsw94AWlPXVVidQ-26" value="&lt;h3 style=&quot;box-sizing: inherit; outline-color: inherit; margin: 30px 0px 18px; padding: 0px; font-size: clamp(1.3125rem, 15.4737px + 1.15132vw, 1.75rem); font-weight: 600; line-height: 1.3; color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; id=&quot;data-destinations&quot;&gt;Data destinations&lt;/h3&gt;&lt;p style=&quot;box-sizing: inherit; outline-color: inherit; margin: 1rem 0px 0px; padding: 0px; overflow-wrap: break-word; color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;The Log Analytics agent sends data to a Log Analytics workspace in Azure Monitor. The Windows agent can be multihomed to send data to multiple workspaces and System Center Operations Manager management groups. The Linux agent can send to only a single destination.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-140" width="550" height="170" as="geometry" />
+          <mxGeometry x="120" y="344.25" width="550" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
