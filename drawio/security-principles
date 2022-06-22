@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:14:35.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-kGd8qI7WyHykdI6wPuU" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-22T19:15:30.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="N7nSMXur0lUsS-pPGjKM" version="20.0.1" type="github" pages="2">
   <diagram id="H8IbT2YckjbfvPU9S4iK" name="Page-1">
     <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,22 +72,22 @@
         <mxCell id="J_aylrsw94AWlPXVVidQ-10" value="Log queries" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.log;" vertex="1" parent="1">
           <mxGeometry x="530" y="147" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J_aylrsw94AWlPXVVidQ-14" value="collect monitoring data&lt;br&gt;for Azure VMS&lt;br&gt;(metrics)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-13" target="J_aylrsw94AWlPXVVidQ-9">
+        <mxCell id="J_aylrsw94AWlPXVVidQ-14" value="for&lt;br&gt;collect monitoring data&lt;br&gt;for Azure VMS&lt;br&gt;(metrics)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-13" target="J_aylrsw94AWlPXVVidQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J_aylrsw94AWlPXVVidQ-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.985;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-13" target="J_aylrsw94AWlPXVVidQ-18">
+        <mxCell id="J_aylrsw94AWlPXVVidQ-19" value="for" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.985;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-13" target="J_aylrsw94AWlPXVVidQ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J_aylrsw94AWlPXVVidQ-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.06;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-13" target="J_aylrsw94AWlPXVVidQ-22">
+        <mxCell id="J_aylrsw94AWlPXVVidQ-23" value="for" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.06;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-13" target="J_aylrsw94AWlPXVVidQ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_aylrsw94AWlPXVVidQ-13" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Azure diagnostics extension&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="232.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J_aylrsw94AWlPXVVidQ-16" value="collect monitoring data&lt;br&gt;for Azure VMS + Other&lt;br&gt;(Logs)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-15" target="J_aylrsw94AWlPXVVidQ-9">
+        <mxCell id="J_aylrsw94AWlPXVVidQ-16" value="for&lt;br&gt;collect monitoring data&lt;br&gt;for Azure VMS + Other&lt;br&gt;(Logs)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-15" target="J_aylrsw94AWlPXVVidQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J_aylrsw94AWlPXVVidQ-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.054;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-15" target="J_aylrsw94AWlPXVVidQ-24">
+        <mxCell id="J_aylrsw94AWlPXVVidQ-25" value="for" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.054;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J_aylrsw94AWlPXVVidQ-15" target="J_aylrsw94AWlPXVVidQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J_aylrsw94AWlPXVVidQ-15" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Log Analytics agent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
