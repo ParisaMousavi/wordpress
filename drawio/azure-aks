@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T08:56:57.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3vxT7jKZbgNgi_xlSphX" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T08:57:19.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ALLco_eB_N8R65XK_m6Z" version="20.3.3" type="github">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="Seite-1">
     <mxGraphModel dx="460" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="NkknmKCwvBiJ2w2bpHRv-20" value="Access must be secure" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Lock_protection_privacy_password_secure_security-128.png;fontColor=#009900;fillColor=#EDF3FC;labelPosition=right;align=left;" vertex="1" parent="1">
           <mxGeometry x="451" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkknmKCwvBiJ2w2bpHRv-22" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="250" y="166" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkknmKCwvBiJ2w2bpHRv-23" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
