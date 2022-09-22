@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T12:00:45.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="GogSK0IRuMX99fJkZ6XB" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T12:02:16.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="41PsKjyLpa1xqmwhkvqx" version="20.3.3" type="github">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="yILYBQgJelVb_fJydLc2-2" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The default host OS in Kubernetes is Linux -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="-190" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yILYBQgJelVb_fJydLc2-4" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Possible to run Microsoft workloads by using Windows Server 2019 or later -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="-160" width="632.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
