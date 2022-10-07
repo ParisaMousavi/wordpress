@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T12:57:04.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JW35LNc5TA02XghymbRD" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T12:57:42.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wQuiVtJ2IQzcODeMckb4" version="20.3.5" type="github">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1422" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="NkknmKCwvBiJ2w2bpHRv-31" value="pod" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;labelBackgroundColor=none;strokeWidth=2;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="690" y="394" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RG8SfKcAHue7_mi65AuU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkknmKCwvBiJ2w2bpHRv-36" target="RG8SfKcAHue7_mi65AuU-2">
+        <mxCell id="RG8SfKcAHue7_mi65AuU-3" value="grant access &lt;br&gt;via Azure RBAC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkknmKCwvBiJ2w2bpHRv-36" target="RG8SfKcAHue7_mi65AuU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NkknmKCwvBiJ2w2bpHRv-36" value="Identity for pod" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;dashed=1;labelBackgroundColor=none;strokeWidth=2;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
