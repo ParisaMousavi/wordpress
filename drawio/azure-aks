@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T08:29:16.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JbQvHIMPTLqbQCeYscM0" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-12T08:32:23.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="co0RlNkSt0qh5gnLFCop" version="20.3.0" type="github" pages="3">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,38 @@
         </mxCell>
         <mxCell id="lvfajbnBSyTXwWHd3SqA-4" value="Roles &#xa;ClusterRoles" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G3Sp5rGgNSLHE6koy_Pf" name="Arc-enabled Kubernetes">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iN1c1JqHq6mSQbd1u6O3-1" target="iN1c1JqHq6mSQbd1u6O3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-1" value="Create AKS instance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN1c1JqHq6mSQbd1u6O3-2" target="iN1c1JqHq6mSQbd1u6O3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iN1c1JqHq6mSQbd1u6O3-2" target="iN1c1JqHq6mSQbd1u6O3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-2" value="Connect AKS instance to ARC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-3" value="Ceate Custom location" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-4" value="Install extensions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN1c1JqHq6mSQbd1u6O3-8" value="&lt;h1&gt;Steps for&amp;nbsp;Arc-enabled Kubernetes&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="520" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
