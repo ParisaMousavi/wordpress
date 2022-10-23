@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T20:03:38.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qfeJND8cd7iVKZJu1CjB" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T20:04:33.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JJejBjAdbU1WoOIr_Ji2" version="20.5.1" type="github" pages="3">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="461" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,8 +108,8 @@
         <mxCell id="CPTCZvWeYMak1s-oImkK-1" value="&lt;font color=&quot;#0066cc&quot;&gt;Resource Group&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="220" y="790" width="640" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="CPTCZvWeYMak1s-oImkK-9" value="has contributor&lt;br&gt;RBAC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.298;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0066CC;" edge="1" parent="1" source="CPTCZvWeYMak1s-oImkK-2" target="CPTCZvWeYMak1s-oImkK-6">
-          <mxGeometry x="0.2941" relative="1" as="geometry">
+        <mxCell id="CPTCZvWeYMak1s-oImkK-9" value="has contributor&lt;br&gt;RBAC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.279;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0066CC;" edge="1" parent="1" source="CPTCZvWeYMak1s-oImkK-2" target="CPTCZvWeYMak1s-oImkK-6">
+          <mxGeometry x="0.5262" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -132,8 +132,8 @@
         <mxCell id="CPTCZvWeYMak1s-oImkK-10" value="has AcrPull&lt;br&gt;RBAC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0066CC;" edge="1" parent="1" source="CPTCZvWeYMak1s-oImkK-3" target="CPTCZvWeYMak1s-oImkK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CPTCZvWeYMak1s-oImkK-16" value="has &lt;br&gt;Virtual Machine Contributor&lt;br&gt;&lt;div&gt;RBAC&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0066CC;" edge="1" parent="1" source="CPTCZvWeYMak1s-oImkK-3" target="CPTCZvWeYMak1s-oImkK-6">
-          <mxGeometry x="0.2962" relative="1" as="geometry">
+        <mxCell id="CPTCZvWeYMak1s-oImkK-16" value="has &lt;br&gt;Virtual Machine Contributor&lt;br&gt;&lt;div&gt;RBAC&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0066CC;" edge="1" parent="1" source="CPTCZvWeYMak1s-oImkK-3" target="CPTCZvWeYMak1s-oImkK-6">
+          <mxGeometry x="0.5493" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -147,7 +147,7 @@
           <mxGeometry x="690" y="900" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CPTCZvWeYMak1s-oImkK-6" value="&lt;font color=&quot;#0066cc&quot;&gt;Resource Group for AKS Nodes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1120" width="500" height="170" as="geometry" />
+          <mxGeometry x="219" y="1120" width="500" height="170" as="geometry" />
         </mxCell>
         <mxCell id="CPTCZvWeYMak1s-oImkK-13" value="Public IP" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;labelBackgroundColor=none;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="236" y="1160" width="65" height="52" as="geometry" />
