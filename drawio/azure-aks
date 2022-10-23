@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T20:29:42.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aYnbgjiysQs2y0W0VAzd" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T20:49:08.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="flMLTn9d_nUYL84u9Oew" version="20.5.1" type="github" pages="3">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="461" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,15 +157,6 @@
         </mxCell>
         <mxCell id="CPTCZvWeYMak1s-oImkK-15" value="VM Scale Set / s" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;labelBackgroundColor=none;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="436" y="1151" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="CPTCZvWeYMak1s-oImkK-19" value="AKS Cluster" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1123.33" y="800" width="56.67" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CPTCZvWeYMak1s-oImkK-20" value="Cluster&lt;br&gt;User-assigned &lt;br&gt;Managed &lt;br&gt;Identity" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1132.665" y="890" width="38" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CPTCZvWeYMak1s-oImkK-22" value="Kubelet&lt;br&gt;User-assigned &lt;br&gt;Managed &lt;br&gt;Identity" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1132.665" y="1020" width="38" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
