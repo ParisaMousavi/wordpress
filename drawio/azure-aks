@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T21:50:35.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="L6RJjhF89QfNv_J_Iel2" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-28T16:25:51.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="otFGMihpBkegmAcVEbxe" version="20.5.1" type="github" pages="5">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="702" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="471" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,53 +224,53 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NVUszgEkoxrVrF5XpNGW" name="aad and k rbac">
-    <mxGraphModel dx="1185" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="-393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#9673a6;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="412.75" y="1478" width="557.25" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-3" value="Kubernetes RBAC for &lt;b&gt;Authorization&lt;/b&gt;&lt;br&gt;Roles and RoleBindings" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#0066CC;" edge="1" parent="1" source="AV9ie_5VN91rNTr6WXP9-4" target="AV9ie_5VN91rNTr6WXP9-8">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-3" value="Kubernetes RBAC for &lt;b&gt;Authorization&lt;/b&gt;&lt;br&gt;Roles and RoleBindings" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#0066CC;" parent="1" source="AV9ie_5VN91rNTr6WXP9-4" target="AV9ie_5VN91rNTr6WXP9-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-4" value="AKS Cluster&lt;br&gt;without any aad feature enabled" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-4" value="AKS Cluster&lt;br&gt;with aad feature enabled" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;fontColor=#0066CC;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="384.99999999999994" y="1503" width="56.67" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-5" value="AAD" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCIgaGVpZ2h0PSIxOCIgd2lkdGg9IjE4IiBpZD0iYmRiNTYzMjktNDcxNy00NDEwLWFhMTMtNDUwNWVjYWE0ZTQ2Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHkyPSI0LjI1IiB4Mj0iOC42MiIgeTE9IjEzLjAyIiB4MT0iMTMuMjUiIGlkPSJiYTI2MTBjMy1hNDVhLTRlN2UtYTBjMC0yODVjZmQ3ZTAwNWQiPjxzdG9wIHN0b3AtY29sb3I9IiMxOTg4ZDkiIG9mZnNldD0iMCIvPjxzdG9wIHN0b3AtY29sb3I9IiM1NGFlZjAiIG9mZnNldD0iMC45Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHkyPSIxNS45OSIgeDI9IjE0LjQ2IiB5MT0iMTAuNDciIHgxPSIxMS4yNiIgaWQ9ImJkOGY2MThiLTRmMmYtNGNiNy1hZmYwLTJmZDJkMjExMzI2ZCI+PHN0b3Agc3RvcC1jb2xvcj0iIzU0YWVmMCIgb2Zmc2V0PSIwLjEiLz48c3RvcCBzdG9wLWNvbG9yPSIjNGZhYmVlIiBvZmZzZXQ9IjAuMjkiLz48c3RvcCBzdG9wLWNvbG9yPSIjNDFhMmU5IiBvZmZzZXQ9IjAuNTEiLz48c3RvcCBzdG9wLWNvbG9yPSIjMmE5M2UwIiBvZmZzZXQ9IjAuNzQiLz48c3RvcCBzdG9wLWNvbG9yPSIjMTk4OGQ5IiBvZmZzZXQ9IjAuODgiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48dGl0bGU+SWNvbi1pZGVudGl0eS0yMjE8L3RpdGxlPjxwb2x5Z29uIGZpbGw9IiM1MGU2ZmYiIHBvaW50cz0iMS4wMSAxMC4xOSA4LjkzIDE1LjMzIDE2Ljk5IDEwLjE3IDE4IDExLjM1IDguOTMgMTcuMTkgMCAxMS4zNSAxLjAxIDEwLjE5Ii8+PHBvbHlnb24gZmlsbD0iI2ZmZiIgcG9pbnRzPSIxLjYxIDkuNTMgOC45MyAwLjgxIDE2LjQgOS41NCA4LjkzIDE0LjI2IDEuNjEgOS41MyIvPjxwb2x5Z29uIGZpbGw9IiM1MGU2ZmYiIHBvaW50cz0iOC45MyAwLjgxIDguOTMgMTQuMjYgMS42MSA5LjUzIDguOTMgMC44MSIvPjxwb2x5Z29uIGZpbGw9InVybCgjYmEyNjEwYzMtYTQ1YS00ZTdlLWEwYzAtMjg1Y2ZkN2UwMDVkKSIgcG9pbnRzPSI4LjkzIDAuODEgOC45MyAxNC4yNiAxNi40IDkuNTQgOC45MyAwLjgxIi8+PHBvbHlnb24gZmlsbD0iIzUzYjFlMCIgcG9pbnRzPSI4LjkzIDcuNzYgMTYuNCA5LjU0IDguOTMgMTQuMjYgOC45MyA3Ljc2Ii8+PHBvbHlnb24gZmlsbD0iIzljZWJmZiIgcG9pbnRzPSI4LjkzIDE0LjI2IDEuNjEgOS41MyA4LjkzIDcuNzYgOC45MyAxNC4yNiIvPjxwb2x5Z29uIGZpbGw9InVybCgjYmQ4ZjYxOGItNGYyZi00Y2I3LWFmZjAtMmZkMmQyMTEzMjZkKSIgcG9pbnRzPSI4LjkzIDE3LjE5IDE4IDExLjM1IDE2Ljk5IDEwLjE3IDguOTMgMTUuMzMgOC45MyAxNy4xOSIvPjwvc3ZnPg==;fontColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-5" value="AAD" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCIgaGVpZ2h0PSIxOCIgd2lkdGg9IjE4IiBpZD0iYmRiNTYzMjktNDcxNy00NDEwLWFhMTMtNDUwNWVjYWE0ZTQ2Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHkyPSI0LjI1IiB4Mj0iOC42MiIgeTE9IjEzLjAyIiB4MT0iMTMuMjUiIGlkPSJiYTI2MTBjMy1hNDVhLTRlN2UtYTBjMC0yODVjZmQ3ZTAwNWQiPjxzdG9wIHN0b3AtY29sb3I9IiMxOTg4ZDkiIG9mZnNldD0iMCIvPjxzdG9wIHN0b3AtY29sb3I9IiM1NGFlZjAiIG9mZnNldD0iMC45Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHkyPSIxNS45OSIgeDI9IjE0LjQ2IiB5MT0iMTAuNDciIHgxPSIxMS4yNiIgaWQ9ImJkOGY2MThiLTRmMmYtNGNiNy1hZmYwLTJmZDJkMjExMzI2ZCI+PHN0b3Agc3RvcC1jb2xvcj0iIzU0YWVmMCIgb2Zmc2V0PSIwLjEiLz48c3RvcCBzdG9wLWNvbG9yPSIjNGZhYmVlIiBvZmZzZXQ9IjAuMjkiLz48c3RvcCBzdG9wLWNvbG9yPSIjNDFhMmU5IiBvZmZzZXQ9IjAuNTEiLz48c3RvcCBzdG9wLWNvbG9yPSIjMmE5M2UwIiBvZmZzZXQ9IjAuNzQiLz48c3RvcCBzdG9wLWNvbG9yPSIjMTk4OGQ5IiBvZmZzZXQ9IjAuODgiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48dGl0bGU+SWNvbi1pZGVudGl0eS0yMjE8L3RpdGxlPjxwb2x5Z29uIGZpbGw9IiM1MGU2ZmYiIHBvaW50cz0iMS4wMSAxMC4xOSA4LjkzIDE1LjMzIDE2Ljk5IDEwLjE3IDE4IDExLjM1IDguOTMgMTcuMTkgMCAxMS4zNSAxLjAxIDEwLjE5Ii8+PHBvbHlnb24gZmlsbD0iI2ZmZiIgcG9pbnRzPSIxLjYxIDkuNTMgOC45MyAwLjgxIDE2LjQgOS41NCA4LjkzIDE0LjI2IDEuNjEgOS41MyIvPjxwb2x5Z29uIGZpbGw9IiM1MGU2ZmYiIHBvaW50cz0iOC45MyAwLjgxIDguOTMgMTQuMjYgMS42MSA5LjUzIDguOTMgMC44MSIvPjxwb2x5Z29uIGZpbGw9InVybCgjYmEyNjEwYzMtYTQ1YS00ZTdlLWEwYzAtMjg1Y2ZkN2UwMDVkKSIgcG9pbnRzPSI4LjkzIDAuODEgOC45MyAxNC4yNiAxNi40IDkuNTQgOC45MyAwLjgxIi8+PHBvbHlnb24gZmlsbD0iIzUzYjFlMCIgcG9pbnRzPSI4LjkzIDcuNzYgMTYuNCA5LjU0IDguOTMgMTQuMjYgOC45MyA3Ljc2Ii8+PHBvbHlnb24gZmlsbD0iIzljZWJmZiIgcG9pbnRzPSI4LjkzIDE0LjI2IDEuNjEgOS41MyA4LjkzIDcuNzYgOC45MyAxNC4yNiIvPjxwb2x5Z29uIGZpbGw9InVybCgjYmQ4ZjYxOGItNGYyZi00Y2I3LWFmZjAtMmZkMmQyMTEzMjZkKSIgcG9pbnRzPSI4LjkzIDE3LjE5IDE4IDExLjM1IDE2Ljk5IDEwLjE3IDguOTMgMTUuMzMgOC45MyAxNy4xOSIvPjwvc3ZnPg==;fontColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="35.75" y="1340" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-6" value="Azure AD for &lt;b&gt;Authentication&lt;/b&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#0066CC;entryX=0.001;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="AV9ie_5VN91rNTr6WXP9-5" target="AV9ie_5VN91rNTr6WXP9-4">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-6" value="Azure AD for &lt;b&gt;Authentication&lt;/b&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#0066CC;entryX=0.001;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="AV9ie_5VN91rNTr6WXP9-5" target="AV9ie_5VN91rNTr6WXP9-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-8" value="Kubernetes Resources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-8" value="Kubernetes Resources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="758.5" y="1503" width="171.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AV9ie_5VN91rNTr6WXP9-9" value="&lt;h1&gt;AKS authentication with AAD &amp;amp; Authorization with Kubernetes RBAC&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AV9ie_5VN91rNTr6WXP9-9" value="&lt;h1&gt;AKS authentication with AAD &amp;amp; Authorization with Kubernetes RBAC&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="1260" width="890" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nsplmKVxQ5zKnzByXXSw-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nsplmKVxQ5zKnzByXXSw-2" target="AV9ie_5VN91rNTr6WXP9-4">
+        <mxCell id="nsplmKVxQ5zKnzByXXSw-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nsplmKVxQ5zKnzByXXSw-2" target="AV9ie_5VN91rNTr6WXP9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsplmKVxQ5zKnzByXXSw-4" value="Azure Kubernetes Service Cluster User Role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0066CC;" vertex="1" connectable="0" parent="nsplmKVxQ5zKnzByXXSw-3">
+        <mxCell id="nsplmKVxQ5zKnzByXXSw-4" value="Azure Kubernetes Service Cluster User Role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0066CC;" parent="nsplmKVxQ5zKnzByXXSw-3" vertex="1" connectable="0">
           <mxGeometry x="0.1588" y="-2" relative="1" as="geometry">
             <mxPoint x="-36" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsplmKVxQ5zKnzByXXSw-2" value="Developer&amp;nbsp;&lt;br&gt;Security Group" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.universal_security_group;" vertex="1" parent="1">
+        <mxCell id="nsplmKVxQ5zKnzByXXSw-2" value="Developer&amp;nbsp;&lt;br&gt;Security Group" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.universal_security_group;" parent="1" vertex="1">
           <mxGeometry x="44.25" y="1499" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="nsplmKVxQ5zKnzByXXSw-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nsplmKVxQ5zKnzByXXSw-5" target="AV9ie_5VN91rNTr6WXP9-4">
+        <mxCell id="nsplmKVxQ5zKnzByXXSw-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nsplmKVxQ5zKnzByXXSw-5" target="AV9ie_5VN91rNTr6WXP9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsplmKVxQ5zKnzByXXSw-7" value="Azure Kubernetes Service Cluster User Role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0066CC;" vertex="1" connectable="0" parent="nsplmKVxQ5zKnzByXXSw-6">
+        <mxCell id="nsplmKVxQ5zKnzByXXSw-7" value="Azure Kubernetes Service Cluster User Role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0066CC;" parent="nsplmKVxQ5zKnzByXXSw-6" vertex="1" connectable="0">
           <mxGeometry x="-0.2196" y="2" relative="1" as="geometry">
             <mxPoint x="29" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsplmKVxQ5zKnzByXXSw-5" value="Ops&amp;nbsp;&lt;br&gt;Security Group" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.universal_security_group;" vertex="1" parent="1">
+        <mxCell id="nsplmKVxQ5zKnzByXXSw-5" value="Ops&amp;nbsp;&lt;br&gt;Security Group" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.universal_security_group;" parent="1" vertex="1">
           <mxGeometry x="44.25" y="1640" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
