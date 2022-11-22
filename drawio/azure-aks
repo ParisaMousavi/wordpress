@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T10:43:38.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7Ltfl-gWIAL3XLexwb9m" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T10:43:51.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oP7v0Qq10E15_P_1DKe2" version="20.5.3" type="github" pages="5">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1102" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
           <mxGeometry x="80" y="583" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qwTugDMGqjfxnYdvLeVn-7" value="K8s Monitoring Extension" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;fontColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="50" height="50" as="geometry" />
+          <mxGeometry x="80" y="500" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qwTugDMGqjfxnYdvLeVn-9" value="A projected instace is created and demonstrated in Azure Portal" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="265" width="180" height="50" as="geometry" />
