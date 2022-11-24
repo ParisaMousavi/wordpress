@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T10:28:26.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="82brmYJn14RxuISZQr-q" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-24T10:33:19.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="PeUrR-dley6-Mv6gm__3" type="github" pages="2">
   <diagram id="9Xs41ee2x_575AcOferS" name="microsoft-cloud-based-products">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,14 +48,23 @@
         <mxCell id="7cMX9uL9D-K2qcye98Y9-6" value="Azure DevOps" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="224" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="7cMX9uL9D-K2qcye98Y9-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Each of the products has its own RBAC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+        <mxCell id="7cMX9uL9D-K2qcye98Y9-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Each of the products has its own RBAC&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7cMX9uL9D-K2qcye98Y9-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Each of the products has its own RBAC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+        <mxCell id="7cMX9uL9D-K2qcye98Y9-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Each of the products has its own RBAC&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7cMX9uL9D-K2qcye98Y9-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Each of the products has its own RBAC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+        <mxCell id="7cMX9uL9D-K2qcye98Y9-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Each of the products has its own RBAC&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="602" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7cMX9uL9D-K2qcye98Y9-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Identities are managed in AAD&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;gradientDirection=south;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7cMX9uL9D-K2qcye98Y9-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;AAD identities obtain roles here&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7cMX9uL9D-K2qcye98Y9-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;AAD identities obtain roles here&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="420" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
