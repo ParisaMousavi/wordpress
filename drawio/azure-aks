@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T20:46:44.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="H7StZ6Zl1p42iVGd6g9D" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-26T20:47:42.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oDofiD8tfjffuSGHNgj6" version="20.8.11" type="github" pages="6">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1674" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
           <mxGeometry x="395" y="370" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-2" value="&lt;h1&gt;Kubernetes challneges&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="510" height="40" as="geometry" />
+          <mxGeometry x="60" y="90" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-3" value="Complex configuration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
@@ -416,6 +416,12 @@
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-18" value="kubernetes active disaster recovery strategy" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="770" y="-60" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-19" value="Complex configuration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-20" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Top challenges&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
