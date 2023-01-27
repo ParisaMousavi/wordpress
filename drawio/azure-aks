@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T21:38:28.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4xMZF0xPR0fXyfj3D2gJ" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-27T07:19:20.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oy3S4_6CX8aEolrwBeVi" version="20.8.11" type="github" pages="6">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1674" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,16 +448,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#005700;fontSize=16;fillColor=none;gradientDirection=east;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="220" width="639" height="260" as="geometry" />
+          <mxGeometry x="1181" y="220" width="759" height="270" as="geometry" />
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-32" value="RAFAY Kubernetes Operations Platform" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="190" width="639" height="30" as="geometry" />
+          <mxGeometry x="1181" y="190" width="759" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#005700;fontSize=16;fillColor=none;gradientDirection=east;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="260" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-38" value="Automation &amp;amp; Self-service" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="230" width="720" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-33" value="Multi-Cluster Mgmt" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#2D7600;fontSize=16;fontColor=#ffffff;fillColor=#60a917;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-Tk840a-qoKR0XrhVU9-34" value="GitOps for K83" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#2D7600;fontSize=16;fontColor=#ffffff;fillColor=#60a917;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1393" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-35" value="Visibility &amp;amp; Monitoring" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#2D7600;fontSize=16;fontColor=#ffffff;fillColor=#60a917;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1577" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-36" value="K8s Addon Catalog" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#2D7600;fontSize=16;fontColor=#ffffff;fillColor=#60a917;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fillColor=none;gradientDirection=east;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1200.5" y="388" width="719.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-40" value="Security &amp;amp; Governance" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1200.5" y="358" width="719.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-41" value="Zero-Trust Access" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="398" width="109.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-45" value="Cluster Blueprint &amp;amp; Drift Detection" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1328" y="398" width="109.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-46" value="Service Mesh Manager" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1446" y="398" width="109.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-47" value="K8s Policy Management" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1564" y="398" width="109.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-48" value="Network Policy Management" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1682" y="398" width="109.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6-Tk840a-qoKR0XrhVU9-49" value="Backup &amp;amp; Restore" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#006EAF;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1800.5" y="398" width="109.5" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
