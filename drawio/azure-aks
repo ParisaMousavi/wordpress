@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T13:28:14.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YYmKhxmOMMFjBMfgbvuh" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-27T13:31:22.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="03RZuHmyvBRuivxMPPzO" version="20.8.11" type="github" pages="6">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="1195" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
             <mxPoint x="720" y="1033" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SKenLetOIX2Yat9yOXv6-21" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Nodes connect to the network and provide&lt;br&gt;- inbound connectivity for pods&lt;br&gt;- outbound connectivity for pods&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#60a917;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="839" y="901" width="350" height="70" as="geometry" />
+        <mxCell id="SKenLetOIX2Yat9yOXv6-21" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;Nodes connect to the network and provide&lt;br&gt;- inbound connectivity for pods&lt;br&gt;- outbound connectivity for pods&lt;br&gt;&lt;br&gt;control outbound (egress) traffic for cluster nodes&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#60a917;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="847" y="901" width="350" height="89" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-24" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Nodes get IP but Pods don&#39;t get IP. The Kube-Proxy transfer the traffic to pods.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="830" y="798" width="350" height="70" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="414" y="609" width="456" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-39" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#60a917;gradientDirection=east;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="780" y="896" width="60" height="80" as="geometry" />
+          <mxGeometry x="780.75" y="900" width="68.25" height="91" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-40" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#6a00ff;gradientDirection=east;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="771" y="793" width="60" height="80" as="geometry" />
@@ -132,6 +132,12 @@
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-48" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#d80073;gradientDirection=east;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="619" y="1073.005" width="40" height="53.33" as="geometry" />
+        </mxCell>
+        <mxCell id="SKenLetOIX2Yat9yOXv6-49" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;More complex routing&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#fa6800;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="1079.17" width="225" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SKenLetOIX2Yat9yOXv6-50" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#000000;fillColor=#fa6800;gradientDirection=east;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1075.005" width="40" height="53.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
