@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T13:13:59.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9tDvX_TCf-mLr7ebuV2t" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-27T13:17:41.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="52htEWfPXohQi9wsKu-D" version="20.8.11" type="github" pages="6">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1687" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="338.75" y="761" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-38" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Service is a logical grouping of pods to allow for direct access on a specific port via an IP or DNS.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="609" width="350" height="70" as="geometry" />
+          <mxGeometry x="414" y="609" width="456" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-39" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#60a917;gradientDirection=east;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="779" y="896" width="60" height="80" as="geometry" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-41" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#0050ef;gradientDirection=east;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="424" y="669" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SKenLetOIX2Yat9yOXv6-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=#F0CFFF;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=#FFFFFF;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="870" y="524" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
