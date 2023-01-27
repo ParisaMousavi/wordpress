@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T13:39:31.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TWacGmWagcyUBZx9dIP1" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-27T13:43:23.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WI26SH2ztoQm6PCLKbbY" version="20.8.11" type="github" pages="6">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="655.5" y="895" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-26" value="Kube-proxy" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=k_proxy;fillStyle=auto;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="338.75" y="903" width="50" height="48" as="geometry" />
+          <mxGeometry x="338.75" y="895" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-28" value="Node" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=middle;align=left;verticalAlign=middle;shape=mxgraph.kubernetes.icon;prIcon=node;fillStyle=auto;fontSize=16;fontColor=#0066CC;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="583" y="682" width="50" height="48" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="600" y="895" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-32" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=kubelet;fillStyle=auto;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="280" y="903" width="50" height="48" as="geometry" />
+          <mxGeometry x="284" y="895" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-34" value="Master" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=middle;align=left;verticalAlign=middle;shape=mxgraph.kubernetes.icon;prIcon=master;fillStyle=auto;fontSize=16;fontColor=#0066CC;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="60" y="682" width="50" height="48" as="geometry" />
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-52" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; style=&quot;font-size: 15px;&quot;&gt;Security and filtering of the network traffic for pods is possible with network policies.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-196" y="999.365" width="263" height="65.27" as="geometry" />
+        </mxCell>
+        <mxCell id="SKenLetOIX2Yat9yOXv6-53" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="337" y="966" width="63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SKenLetOIX2Yat9yOXv6-54" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="649" y="966" width="63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SKenLetOIX2Yat9yOXv6-55" value="Bridge" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="966" width="63" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
