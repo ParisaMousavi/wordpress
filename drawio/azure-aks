@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T17:36:44.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4cV7tzI1J5vLFcNq1lfN" version="20.8.12" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-30T20:38:46.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="31Wx3Xv6WXgykDh34Uf6" version="20.8.12" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,10 +749,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UbVsyuhiJEhX-6ezSo-j-12" value="Region 2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#10739e;align=left;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="UbVsyuhiJEhX-6ezSo-j-12" value="Vnet Region 2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#10739e;align=left;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="245" y="1610" width="515" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UbVsyuhiJEhX-6ezSo-j-11" value="Region 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#10739e;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UbVsyuhiJEhX-6ezSo-j-11" value="Vnet Region 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#10739e;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="245" y="1450" width="515" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UbVsyuhiJEhX-6ezSo-j-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
