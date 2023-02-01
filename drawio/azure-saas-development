@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T09:54:39.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nfbvlZPyBu3t9hA-hVJY" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T09:58:20.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="v3NisP8rx4JzBScEF3TG" version="20.8.13" type="github">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
-    <mxGraphModel dx="1195" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FRHq7ED6pQsYl0dXqfbr-1" value="&lt;h1&gt;Azure SaaS development&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="450" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="FRHq7ED6pQsYl0dXqfbr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="FRHq7ED6pQsYl0dXqfbr-2" target="FRHq7ED6pQsYl0dXqfbr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -83,6 +80,9 @@
         </mxCell>
         <mxCell id="FRHq7ED6pQsYl0dXqfbr-25" value="Application" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="1">
           <mxGeometry x="652.5" y="631.25" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="FRHq7ED6pQsYl0dXqfbr-34" value="&lt;h1&gt;Azure SaaS development&lt;/h1&gt;&lt;p&gt;The aim of this architecture is not to demonstrate how the hub-spoke topology should be but which types of authentications we have when we develop a SaaS to publish in the marketplace.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="902" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
