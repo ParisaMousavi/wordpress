@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T08:51:01.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OlYc6RC_C-ayLiEoJyYP" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T08:54:01.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IIGpKJcOlsHYjcz64U3y" version="20.8.20" type="github">
   <diagram name="Seite-1" id="TJ4AlcoqDhUAgNlX-8GT">
     <mxGraphModel dx="1114" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,26 @@
         </mxCell>
         <mxCell id="uu0k0W3cNMt_d7Q9eH80-14" value="The components or resources that are used in this Terraform solution are demonstrated in the architecture below" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.947;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="uu0k0W3cNMt_d7Q9eH80-17" target="uu0k0W3cNMt_d7Q9eH80-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-17" value="Reader" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="228" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="uu0k0W3cNMt_d7Q9eH80-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-18" value="DevTest Labs User" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="303" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=0.593;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="uu0k0W3cNMt_d7Q9eH80-19" target="uu0k0W3cNMt_d7Q9eH80-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-19" value="DevTest Labs User" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
