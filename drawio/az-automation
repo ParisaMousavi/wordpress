@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T08:42:20.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ctaIpfMKwLqCLKOyKwxS" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T08:45:50.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Zr2rSmD41WJRcq3P__lA" version="20.8.20" type="github">
   <diagram name="Seite-1" id="TJ4AlcoqDhUAgNlX-8GT">
     <mxGraphModel dx="1114" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="uu0k0W3cNMt_d7Q9eH80-1" value="&lt;h1&gt;Azure Automation&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="630" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-2" value="Azure Automation Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Automation_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0k0W3cNMt_d7Q9eH80-6" value="Runbook 0..*" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZT0iIzAwMCIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgODEgODEiPjxzdHlsZT4uQntzdHJva2U6bm9uZX0uQ3tmaWxsOiMwMDc4ZDd9LkR7Zm9udC1mYW1pbHk6Um9ib3RvIENvbmRlbnNlZH08L3N0eWxlPjx1c2UgeT0iLjUiIHg9Ii41IiB4bGluazpocmVmPSIjQSIvPjxzeW1ib2wgb3ZlcmZsb3c9InZpc2libGUiIGlkPSJBIj48cGF0aCBjbGFzcz0iQiBDIiBkPSJNNjQuNDA3IDM3LjE5NEgxNS41ODJjLTIuMDc4IDAtMy45ODIgMS42MDMtMy45ODIgNC4wMDh2MTcuMTU0bDYuNzUyIDEuNzY0VjQzLjQ0N2g0My4xMTFWNTkuOTZsNi43NTItMS43NjRWNDEuMjAyYzAtMi40MDUtMS45MDQtNC4wMDgtMy44MDktNC4wMDh6Ii8+PHBhdGggY2xhc3M9IkIgQyIgZD0iTTM2LjUzMiAyNi4yOTNoNi43NTJ2MTYuNjczaC02Ljc1MnoiLz48cGF0aCBjbGFzcz0iQiBDIiBkPSJNNTAuOTAzIDBIMjkuMDg3Yy0yLjI1MSAwLTQuMTU1IDEuNzY0LTQuMTU1IDMuODQ4djE4Ljc1OGMwIDIuMDg0IDEuOTA1IDMuODQ4IDQuMTU1IDMuODQ4aDIxLjY0MmMyLjI1MSAwIDQuMTU1LTEuNzY0IDQuMTU1LTMuODQ4VjMuODQ4QzU1LjA1OCAxLjc2NCA1My4xNTMgMCA1MC45MDMgMHoiLz48cGF0aCBjbGFzcz0iQiBDIiBkPSJNMjUuNzk3IDUzLjU0N0g0LjE1NUMxLjkwNSA1My41NDcgMCA1NS4zMTEgMCA1Ny4zOTV2MTguNzU4QzAgNzguMjM2IDEuOTA1IDgwIDQuMTU1IDgwaDIxLjY0MmMyLjI1MSAwIDQuMTU1LTEuNzY0IDQuMTU1LTMuODQ4VjU3LjM5NWMwLTIuMDg0LTEuOTA1LTMuODQ4LTQuMTU1LTMuODQ4eiIvPjxwYXRoIGNsYXNzPSJCIEMiIGQ9Ik03NS44MzMgNTMuNTQ3SDU0LjE5MWMtMi4yNTEgMC00LjE1NSAxLjc2NC00LjE1NSAzLjg0OHYxOC43NThjMCAyLjA4NCAxLjkwNSAzLjg0OCA0LjE1NSAzLjg0OGgyMS42NDJjMi4yNTEgMCA0LjE1NS0xLjc2NCA0LjE1NS0zLjg0OFY1Ny4zOTVjLjE3My0yLjA4NC0xLjczMS0zLjg0OC00LjE1NS0zLjg0OHoiLz48L3N5bWJvbD48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="310" width="81" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
