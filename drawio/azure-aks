@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:27:21.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Tq4PJQ0v_2DgGfc8OCyT" version="20.8.20" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-21T09:30:11.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YwsyEGJ7DaamzqkN1L_c" version="20.8.20" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2193" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,6 +357,12 @@
         </mxCell>
         <mxCell id="l5JwAdNGpKzcIhh8EA7H-10" value="&lt;span style=&quot;color: rgb(0, 102, 204); font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;Cluster Admin Group&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user;labelBackgroundColor=none;fontSize=15;fontColor=#D80073;" vertex="1" parent="1">
           <mxGeometry x="21" y="3370" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l5JwAdNGpKzcIhh8EA7H-17" value="Azure Kubernetes Service RBAC Reader" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="241" y="3470" width="171.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l5JwAdNGpKzcIhh8EA7H-18" value="Azure Kubernetes Service RBAC Cluster Admin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="3410" width="171.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
