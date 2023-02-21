@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T07:23:54.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hup5AIJyGAgsSA6G65oN" version="20.8.20" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-21T07:26:06.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="frsX5ONuJXtFnqLa9pCC" version="20.8.20" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="ABZWBmc4RE9beJTDvPag-1" value="Access must be secure&lt;br&gt;Using TLS cert. for ingress controller" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Lock_protection_privacy_password_secure_security-128.png;fontColor=#009900;fillColor=#EDF3FC;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="675.5" y="2182.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABZWBmc4RE9beJTDvPag-3" value="AppGW&lt;br&gt;ingress controller can be AppGw of nginx" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="671" y="2270" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
