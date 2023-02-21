@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T11:30:52.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ozsxobw6oCJ_He13o7XH" version="20.8.20" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-21T11:31:47.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S47dF5bKsnrw4OT2OML_" version="20.8.20" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2193" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,6 +363,48 @@
         </mxCell>
         <mxCell id="l5JwAdNGpKzcIhh8EA7H-18" value="Azure Kubernetes Service RBAC Cluster Admin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="3410" width="171.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-1" value="Vnet Region 2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#10739e;align=left;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3930" width="515" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-2" value="Vnet Region 1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#10739e;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3770" width="515" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="377.75" y="3798" width="307.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-4" value="AKS Cluster" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349.99999999999994" y="3823" width="56.67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-5" value="Kubernetes Resources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="485" y="3823" width="171.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-6" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="377.75" y="3940" width="307.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-7" value="AKS Cluster" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;fontColor=#0066CC;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349.99999999999994" y="3965" width="56.67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-8" value="Kubernetes Resources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="485" y="3965" width="171.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-9" value="LB" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Load_Balancer_feature.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="3823" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-10" value="LB" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Load_Balancer_feature.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="3965" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XyW1S39fpVKd8r2FKGQV-13" target="XyW1S39fpVKd8r2FKGQV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XyW1S39fpVKd8r2FKGQV-13" target="XyW1S39fpVKd8r2FKGQV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-13" value="Traffic Manager" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Traffic_Manager.svg;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="3890" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XyW1S39fpVKd8r2FKGQV-14" value="&lt;h1&gt;Multi-Regional Solution&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="3640" width="830" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
