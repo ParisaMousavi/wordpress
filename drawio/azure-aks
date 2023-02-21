@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:05:08.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_AJVdV6c-ebopw3wTYEx" version="20.8.20" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-21T09:07:03.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="v2_TCp8EPfZgGDDuyM0q" version="20.8.20" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,24 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="aNyIMa41sbLHr_OBxAwG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="2700" width="588.5" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="yILYBQgJelVb_fJydLc2-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/media/3-cluster-architecture-components.svg;" parent="1" vertex="1">
-          <mxGeometry x="20" y="30" width="520" height="245" as="geometry" />
-        </mxCell>
-        <mxCell id="yILYBQgJelVb_fJydLc2-2" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The default host OS in Kubernetes is Linux -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="42.5" y="290" width="642.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yILYBQgJelVb_fJydLc2-4" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Possible to run Microsoft workloads by using Windows Server 2019 or later -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="42.5" y="330" width="642.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yILYBQgJelVb_fJydLc2-5" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;In Azure Kubernetes Service (AKS) the preferred configuration is a high-availability deployment with three to five replicated control planes -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="42.5" y="370" width="642.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yILYBQgJelVb_fJydLc2-6" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Each node communicates with the control plane via the API server to inform it about state changes on the node -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="42.5" y="430" width="642.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yILYBQgJelVb_fJydLc2-8" value="Backing store" style="text;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="69.5" y="205" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="560" width="757.5" height="580" as="geometry" />
@@ -826,7 +808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WCs-KbycsRW1KPo9ulxS" name="multi-region">
-    <mxGraphModel dx="1434" dy="-381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -868,6 +850,24 @@
         </mxCell>
         <mxCell id="UbVsyuhiJEhX-6ezSo-j-13" value="Traffic Manager" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Traffic_Manager.svg;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="1570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GcF7l1WhMwYrAooCZdYs-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/media/3-cluster-architecture-components.svg;" vertex="1" parent="1">
+          <mxGeometry x="95" y="950" width="520" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="GcF7l1WhMwYrAooCZdYs-2" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The default host OS in Kubernetes is Linux -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="1210" width="642.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcF7l1WhMwYrAooCZdYs-3" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Possible to run Microsoft workloads by using Windows Server 2019 or later -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="1250" width="642.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcF7l1WhMwYrAooCZdYs-4" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;In Azure Kubernetes Service (AKS) the preferred configuration is a high-availability deployment with three to five replicated control planes -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="1290" width="642.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcF7l1WhMwYrAooCZdYs-5" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Each node communicates with the control plane via the API server to inform it about state changes on the node -&amp;gt; &lt;a href=&quot;https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/3-how-kubernetes-works&quot;&gt;link&lt;/a&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="1350" width="642.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcF7l1WhMwYrAooCZdYs-6" value="Backing store" style="text;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="1125" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
