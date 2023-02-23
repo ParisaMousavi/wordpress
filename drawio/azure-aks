@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T14:23:27.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3VorBqni4n-uZztkyIY7" version="20.8.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-23T14:26:58.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5L9GiBgvg3zIDVDelRso" version="20.8.21" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1600" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -519,6 +519,9 @@
         </mxCell>
         <mxCell id="5UrQ7pLqttuzefEQGNNs-37" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;The second pod of my application cannot connect to this Azure Disk.&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;spacingLeft=7;" vertex="1" parent="1">
           <mxGeometry x="1540" y="1767.5" width="150" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="5UrQ7pLqttuzefEQGNNs-39" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;The solution is replicate and synchronize the data which is a &lt;b&gt;complex job&lt;/b&gt;.&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1983" width="630" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
