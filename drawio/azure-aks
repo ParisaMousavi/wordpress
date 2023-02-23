@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T14:29:05.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BXLG0Ab_dlHQ-9Dfr0e_" version="20.8.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-23T15:00:03.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KLQSyfR2u7jzCbIa0jTi" version="20.8.21" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="1600" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2684" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -522,6 +522,18 @@
         </mxCell>
         <mxCell id="5UrQ7pLqttuzefEQGNNs-39" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;The solution is replicate and synchronize the data which is a &lt;b&gt;complex job&lt;/b&gt;.&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;spacingLeft=7;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1983" width="630" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5UrQ7pLqttuzefEQGNNs-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1998.5" y="1260" as="sourcePoint" />
+            <mxPoint x="2168.5" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UrQ7pLqttuzefEQGNNs-41" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Title&lt;/b&gt;&lt;br&gt;Text&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#D80073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1311" width="240" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="5UrQ7pLqttuzefEQGNNs-42" value="&lt;h1&gt;Using external resources like databases&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1230" width="830" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
