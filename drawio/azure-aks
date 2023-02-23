@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T15:04:04.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_j9f_db72AmaldJ6DZCW" version="20.8.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-23T20:53:21.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Eb-e7_NjIUaXfjde1Dkh" version="20.8.21" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="2412" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,7 +535,7 @@
         <mxCell id="5UrQ7pLqttuzefEQGNNs-42" value="&lt;h1&gt;Using external resources like databases&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2270" y="1230" width="830" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5UrQ7pLqttuzefEQGNNs-43" value="&lt;h1&gt;Container Storage Interface (CSI) for Persistent Volume (PV)&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5UrQ7pLqttuzefEQGNNs-43" value="&lt;h1&gt;Secrets Store CSI Driver&amp;nbsp;for Persistent Volume (PV)&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="2110" width="830" height="50" as="geometry" />
         </mxCell>
       </root>
