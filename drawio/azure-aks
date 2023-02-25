@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T09:00:39.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hictNovQ7uP2csdVEB9N" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-25T09:30:08.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wwW7vuWUoi4iD9DP-yHo" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="3217" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,10 +542,13 @@
           <mxGeometry x="440" y="2840" width="289" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_OKYdIbhLSVeEEGa8e_F-2" value="pod" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;labelBackgroundColor=none;strokeWidth=2;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="2960" width="50" height="48" as="geometry" />
+          <mxGeometry x="559.5" y="2940" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_OKYdIbhLSVeEEGa8e_F-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="2960" width="38" height="50" as="geometry" />
+        <mxCell id="_OKYdIbhLSVeEEGa8e_F-3" value="Pod&amp;nbsp;u.a.identity" style="sketch=0;aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="609.5" y="2940" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_OKYdIbhLSVeEEGa8e_F-4" value="Kublet&amp;nbsp;u.a.identity" style="sketch=0;aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="677" y="2850" width="38" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
