@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T12:55:05.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iulAp4nqPGQ7yCNlZVDR" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-25T12:55:16.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1MAvBpYKg1nIUHfuq3iD" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1755" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -557,10 +557,10 @@
           <mxGeometry x="1" y="420" width="830" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IYfx3JfhK_HBnzwdHzNU-5" value="&lt;a href=&quot;https://killercoda.com/playgrounds/scenario/kubernetes&quot;&gt;Killercode&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="80" width="120" height="30" as="geometry" />
+          <mxGeometry x="1" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IYfx3JfhK_HBnzwdHzNU-6" value="&lt;a href=&quot;http://labs.play-with-k8s.com/&quot;&gt;Play with Kubernetes&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160.5" y="80" width="147" height="30" as="geometry" />
+          <mxGeometry x="131.5" y="40" width="147" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
