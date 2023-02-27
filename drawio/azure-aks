@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T12:34:40.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="z6jiDCc71wWia7HPcY-p" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T12:35:00.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KdwgF2sk5jyPmEBI3En1" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2876" dy="2295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aNyIMa41sbLHr_OBxAwG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="211.5" y="2700" width="1528.5" height="550" as="geometry" />
+          <mxGeometry x="211.5" y="2700" width="1438.5" height="550" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="560" width="757.5" height="580" as="geometry" />
@@ -596,7 +596,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-15" value="privatelink.vaultcore.azure.net" style="sketch=0;aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;fillColor=none;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="2765" width="50" height="50" as="geometry" />
+          <mxGeometry x="1420" y="2765" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-19" value="Cluster u.a.identity" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="512.38" y="2775" width="38" height="50" as="geometry" />
