@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T19:22:17.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Xdfcz-ovefVGhpNxatLE" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T19:23:03.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="V-65FwpKQoTAA8kCKlKR" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="1888" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,13 +97,13 @@
         <mxCell id="SKenLetOIX2Yat9yOXv6-41" value="" style="triangle;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#0050ef;gradientDirection=east;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="424" y="668" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SKenLetOIX2Yat9yOXv6-43" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;ServiceType&amp;nbsp;&lt;br&gt;- NodePort&lt;br&gt;- ClusterIP&lt;br&gt;- LoadBalancer&lt;br&gt;&lt;br&gt;Specify a Kubernetes ServiceType to specify what kind of Service you want, for example if you want to expose a Service onto an external IP address that&#39;s outside of your cluster.&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#0066CC;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="874" y="545" width="240" height="201" as="geometry" />
+        <mxCell id="SKenLetOIX2Yat9yOXv6-43" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;ServiceType&amp;nbsp;&lt;br&gt;- NodePort&lt;br&gt;- ClusterIP&lt;br&gt;- LoadBalancer&lt;br&gt;&lt;br&gt;Specify a Kubernetes ServiceType to specify what kind of Service you want, for example if you want to expose a Service onto an external IP address that&#39;s outside of your cluster.&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#0066CC;strokeColor=none;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="874" y="490" width="240" height="163" as="geometry" />
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-44" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0066CC;strokeWidth=2;fontSize=16;fontColor=#0066CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="872.8199999999999" y="729" as="sourcePoint" />
-            <mxPoint x="872.8199999999999" y="559" as="targetPoint" />
+            <mxPoint x="871.8699999999999" y="652.5" as="sourcePoint" />
+            <mxPoint x="871.8699999999999" y="482.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SKenLetOIX2Yat9yOXv6-45" value="Load balancer" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=none;fontSize=16;fontColor=#ffffff;fillColor=#0050ef;gradientDirection=east;" parent="1" vertex="1">
