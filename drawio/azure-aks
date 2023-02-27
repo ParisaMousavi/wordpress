@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T20:40:26.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ld-1OaIWr95UH1ScojeV" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T20:40:52.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dYEJFS3wiqB-0-IeRrzi" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1755" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1019,13 +1019,13 @@
           <mxGeometry x="410.25" y="960" width="371.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-149" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E8DBFF;fontColor=#ffffff;strokeColor=none;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="836.75" y="879.17" width="381.5" height="80.83" as="geometry" />
+          <mxGeometry x="836.75" y="879.17" width="381.5" height="90.83" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-143" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCA2NCA2NCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4Ij48cGF0aCBmaWxsPSIjNDA0MEIyIiBkPSJNMzguMDYgMjYuMTUxdjExLjQ3M0w0OCAzMS44OTFWMjAuNDA2bC05Ljk0IDUuNzQ1eiIvPjxwYXRoIGZpbGw9IiM1QzRFRTUiIGQ9Im0yNy4wMyAyMC40MDYgOS45NCA1Ljc0NXYxMS40NzNsLTkuOTQtNS43NFYyMC40MDd6TTE2IDE0djExLjQ3OWw5Ljk0IDUuNzR2LTExLjQ4TDE2IDE0em0xMS4wMyAzMC42MjQgOS45NCA1Ljc0di0xMS40OGwtOS45NC01LjczOXYxMS40OHoiLz48L3N2Zz4=;" vertex="1" parent="1">
-          <mxGeometry x="828.5" y="872.34" width="55.66" height="55.66" as="geometry" />
+          <mxGeometry x="832.5" y="876.34" width="55.66" height="55.66" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-148" value="&lt;div&gt;&lt;/div&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;Terraform contains&lt;br&gt;- The Kubernetes services and Cluster Vnet.&lt;br&gt;- The required RBAC roles based on the linked document.&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#5950e0;strokeColor=none;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="872.75" y="879.17" width="337.25" height="80.83" as="geometry" />
+          <mxGeometry x="878.75" y="886" width="330" height="80.83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
