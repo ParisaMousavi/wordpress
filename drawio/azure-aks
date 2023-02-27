@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T20:12:23.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_P4hGtTaSHylKKEustna" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T20:15:48.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FkPanuV1ZPGQLg_JBs9R" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1570" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1005,6 +1005,9 @@
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-137" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#008a00&quot;&gt;Node has a configuration for the maximum number of pods.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#008a00&quot;&gt;The equivalent number of IP addresses per node are reserved upfront.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#0066CC;strokeColor=none;spacingLeft=-23;" vertex="1" parent="1">
           <mxGeometry x="844" y="867.5" width="371.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OKivLFwafJ3oSoLvRUHn-139" value="&lt;b&gt;Note&lt;/b&gt;&lt;br&gt;Be careful about IP address exhaustion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="939.36" width="230" height="40.64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
