@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T20:34:22.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YHCoedi86BQaOCCUDrKC" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T20:37:58.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pKagmiDTxdQ4NZRZw259" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="1941" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1464" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1020,6 +1020,9 @@
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-147" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;Every pod gets an IP address from the subnet and can be accessed directly.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;Pod IP is the source address for any traffic from the pod.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;IP must be unique&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#D80073;strokeColor=none;spacingLeft=-23;" vertex="1" parent="1">
           <mxGeometry x="410.25" y="960" width="371.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OKivLFwafJ3oSoLvRUHn-148" value="&lt;div&gt;&lt;/div&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;Terraform contains&lt;br&gt;- The Kubernetes services and Cluster Vnet.&lt;br&gt;- The required RBAC roles based on the linked document.&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#5950e0;strokeColor=none;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="888.5" y="890" width="371.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
