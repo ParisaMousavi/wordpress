@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T20:19:24.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Z-pd4cJPBjYKCigeRHL3" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T20:20:38.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2WK4CkrHjbNRRmyoBR5K" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1570" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -997,8 +997,8 @@
         <mxCell id="OKivLFwafJ3oSoLvRUHn-131" value="IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="1800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OKivLFwafJ3oSoLvRUHn-132" value="IP x.x.x.x" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="716" y="748" width="60" height="20" as="geometry" />
+        <mxCell id="OKivLFwafJ3oSoLvRUHn-132" value="IP x.x.x.x" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="716" y="750" width="60" height="18" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-133" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(106, 0, 255); background-color: initial; font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;Every pod gets an IP address from the subnet and can be accessed directly.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(106, 0, 255); background-color: initial; font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;Pod IP is the source address for any traffic from the pod.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(106, 0, 255); background-color: initial; font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;IP must be unique&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;fontColor=#0066CC;strokeColor=none;spacingLeft=-23;" vertex="1" parent="1">
           <mxGeometry x="838.5" y="730" width="371.5" height="90" as="geometry" />
