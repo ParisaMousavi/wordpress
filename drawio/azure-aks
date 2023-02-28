@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T07:40:27.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="p17ZzGsHrXYwkgY9L1ZO" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:41:31.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_Ryshe5C4vm0pEpGyK-o" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
-    <mxGraphModel dx="1888" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2065" dy="2030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1093,6 +1093,9 @@
         </mxCell>
         <mxCell id="tZJkqzoExOTfjuBH5yNo-16" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Network policy&lt;br&gt;- Defines access policy for communication between pods.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#008A00;fillColor=none;align=left;fillStyle=auto;perimeterSpacing=0;strokeWidth=1;shadow=0;glass=0;spacingLeft=5;spacingRight=5;fontColor=#008A00;fillOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="284.67" y="950" width="365.33" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tZJkqzoExOTfjuBH5yNo-17" value="&lt;font face=&quot;Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/azure/aks/use-network-policies&quot;&gt;Link&lt;/a&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;fillColor=#cce5ff;align=center;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="654.25" y="950" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
