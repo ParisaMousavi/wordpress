@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T09:57:18.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fvXxWkkNJ8v3qLBm58Ee" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-01T09:58:29.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WTregdfi2eO0wT-nH-hq" version="20.8.23" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="2514" dy="2096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,6 +599,9 @@
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-15" value="privatelink.vaultcore.azure.net" style="sketch=0;aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;fillColor=none;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1430" y="2881.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xdG7RsBpV09BvaR16-11" value="Authorization" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="OKivLFwafJ3oSoLvRUHn-19" target="Bd1xdG7RsBpV09BvaR16-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKivLFwafJ3oSoLvRUHn-19" value="Cluster u.a.identity" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Identities.svg;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="522.38" y="2891.5" width="38" height="50" as="geometry" />
