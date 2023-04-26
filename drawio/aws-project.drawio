@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T07:31:31.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lOnAkvt24Cvk--tH3QMC" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T07:31:43.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="g1oZOY_Vc3uRqfJ2xFKf" version="21.2.1" type="github">
   <diagram id="DosA0Ja8lWotb2Q3j1uD" name="project">
     <mxGraphModel dx="3028" dy="2086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
         <mxCell id="nOJyN4C1B3A-w3jOITU2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6C8EBF;endArrow=none;endFill=0;exitX=1.054;exitY=0.456;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nOJyN4C1B3A-w3jOITU2-70" source="nOJyN4C1B3A-w3jOITU2-78" target="nOJyN4C1B3A-w3jOITU2-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nOJyN4C1B3A-w3jOITU2-71" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+        <mxCell id="nOJyN4C1B3A-w3jOITU2-71" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="-210" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nOJyN4C1B3A-w3jOITU2-74" value="Endpoint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6C8EBF;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#6C8EBF;" vertex="1" parent="1">
