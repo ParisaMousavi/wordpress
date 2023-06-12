@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:05:09.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oxlAbJmVE79U3yWCspD8" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:29:27.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W_0d0Ne1RRwMs3M2ncxP" version="21.3.8" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1619" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1287,7 +1287,7 @@
             <mxPoint x="1090" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol11KwXJOK7QM7XxVTPI-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-1" target="ol11KwXJOK7QM7XxVTPI-15">
+        <mxCell id="ol11KwXJOK7QM7XxVTPI-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.456;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-1" target="ol11KwXJOK7QM7XxVTPI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1317,7 +1317,7 @@
         <mxCell id="ol11KwXJOK7QM7XxVTPI-8" value="NIC" style="pointerEvents=1;shadow=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
           <mxGeometry x="986.5" y="1281" width="57" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ol11KwXJOK7QM7XxVTPI-18" value="join vnet" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.84;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-11" target="ol11KwXJOK7QM7XxVTPI-15">
+        <mxCell id="ol11KwXJOK7QM7XxVTPI-18" value="join vnet" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.88;entryY=1.121;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-11" target="ol11KwXJOK7QM7XxVTPI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-24" value="peer with env dev" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-11" target="ol11KwXJOK7QM7XxVTPI-21">
@@ -1333,7 +1333,7 @@
           <mxGeometry x="1670" y="1490" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-15" value="privatelink.azurecr.io" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1271.5" y="900" width="50" height="50" as="geometry" />
+          <mxGeometry x="1020" y="890" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-19" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="790" y="1250" width="332" height="100" as="geometry" />
@@ -1346,6 +1346,9 @@
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-22" value="What is the use case&lt;br&gt;- Resolve ACR name with nslookup" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1470" y="780" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ol11KwXJOK7QM7XxVTPI-25" value="privatelink.azurecr.io" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="890" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
