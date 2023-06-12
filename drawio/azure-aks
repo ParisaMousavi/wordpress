@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:56:11.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hEUiT5co_61qfE44Wi_f" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:26:17.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jKRRACYo8Mfi2U9j8yPB" version="21.3.8" type="github" pages="7">
   <diagram id="X2xPXRYKg0aXALjI2en5" name="aks-master">
     <mxGraphModel dx="1619" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1379,7 +1379,7 @@
         <mxCell id="ol11KwXJOK7QM7XxVTPI-31" value="container app" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="910" y="1885" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ol11KwXJOK7QM7XxVTPI-48" value="can resolve the ip address and join the private dns" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.799;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ol11KwXJOK7QM7XxVTPI-48" value="can resolve the ip address and join the private dns" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.972;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ol11KwXJOK7QM7XxVTPI-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1574.5" y="1860" as="sourcePoint" />
             <mxPoint x="1157.4500000000003" y="1408.6" as="targetPoint" />
@@ -1395,7 +1395,7 @@
           <mxGeometry x="1620.5" y="1880" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-40" value="privatelink.azurecr.io" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1116.5" y="1360" width="50" height="50" as="geometry" />
+          <mxGeometry x="1142" y="1520" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-41" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="710" y="1500" width="332" height="100" as="geometry" />
@@ -1406,7 +1406,7 @@
         <mxCell id="ol11KwXJOK7QM7XxVTPI-43" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="840" y="1520" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ol11KwXJOK7QM7XxVTPI-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.235;entryY=1.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-44" target="ol11KwXJOK7QM7XxVTPI-40">
+        <mxCell id="ol11KwXJOK7QM7XxVTPI-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ol11KwXJOK7QM7XxVTPI-44" target="ol11KwXJOK7QM7XxVTPI-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ol11KwXJOK7QM7XxVTPI-44" value="NIC" style="pointerEvents=1;shadow=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
