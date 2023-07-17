@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T13:04:48.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zShnCM0Lr_O_yb_sBX5t" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-17T13:05:12.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2kCH3-0cwXrFN_dplVnw" version="21.3.8" type="github" pages="3">
   <diagram name="Seite-1" id="y-kNaQXHDHVaqjaPB1-J">
     <mxGraphModel dx="1472" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,19 +86,19 @@
         <mxCell id="PbtGhpLG0s0K6ez1vKuF-5" value="Do you need &lt;br&gt;virtualized solution?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="560" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PbtGhpLG0s0K6ez1vKuF-8" value="Azure Stack HCI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbtGhpLG0s0K6ez1vKuF-8" value="Azure Stack Edge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbtGhpLG0s0K6ez1vKuF-19" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbtGhpLG0s0K6ez1vKuF-10" target="PbtGhpLG0s0K6ez1vKuF-8">
+        <mxCell id="PbtGhpLG0s0K6ez1vKuF-19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbtGhpLG0s0K6ez1vKuF-10" target="PbtGhpLG0s0K6ez1vKuF-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbtGhpLG0s0K6ez1vKuF-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbtGhpLG0s0K6ez1vKuF-10" target="PbtGhpLG0s0K6ez1vKuF-12">
+        <mxCell id="PbtGhpLG0s0K6ez1vKuF-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbtGhpLG0s0K6ez1vKuF-10" target="PbtGhpLG0s0K6ez1vKuF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbtGhpLG0s0K6ez1vKuF-10" value="Virtualized &lt;br&gt;AI Solution?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="740" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PbtGhpLG0s0K6ez1vKuF-12" value="Azure Stack Edge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbtGhpLG0s0K6ez1vKuF-12" value="Azure Stack HCI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="301" y="775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PbtGhpLG0s0K6ez1vKuF-14" value="Azure Stack HCI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
