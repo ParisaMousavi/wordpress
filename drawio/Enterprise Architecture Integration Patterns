@@ -1,20 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T09:25:48.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FJfhQkSN0vTFODfMqfCY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T09:35:01.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GC_RvGLvF6E6Cfo7iMAm" version="21.6.6" type="github">
   <diagram name="API - Gate Keeper Pattern " id="sYnvoJOgJQ-C6s-tl_db">
     <mxGraphModel dx="1232" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ITMeazX9FTvGPxo2vS-Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="240" width="310" height="320" as="geometry" />
+          <mxGeometry x="510" y="240" width="260" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ITMeazX9FTvGPxo2vS-Y-2" value="Internal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="310" height="30" as="geometry" />
+          <mxGeometry x="510" y="210" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ITMeazX9FTvGPxo2vS-Y-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="310" height="320" as="geometry" />
+          <mxGeometry x="210" y="240" width="260" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ITMeazX9FTvGPxo2vS-Y-4" value="External" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="210" width="310" height="30" as="geometry" />
+          <mxGeometry x="210" y="210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-5" value="Trusted Role" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-6" value="Data" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="428" width="71.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-7" value="Services" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="429.96" width="62.5" height="66.07" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-9" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580.71" y="381" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-10" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="381" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-11" value="Gatekeeper Role" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="300" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-12" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rotation=-180;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="428" y="315" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-14" value="Running in a Full Privilege Mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="558" y="261" width="172" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ITMeazX9FTvGPxo2vS-Y-16" value="Running in a Limited Privilege Mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="261" width="172" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
