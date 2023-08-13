@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T17:09:21.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IimtBgeQ3NsM96JQjA3W" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-13T17:16:08.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="v99dif0Yyn9TRNxXwCzJ" version="21.6.6" type="github" pages="2">
   <diagram name="API - Gate Keeper Pattern " id="sYnvoJOgJQ-C6s-tl_db">
     <mxGraphModel dx="772" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,10 +65,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j7oEsPOcbLjl2hXL8Wik" name="API - Gateway Aggregation Pattern ">
-    <mxGraphModel dx="1120" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="640" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4yRqDhPdp6zeXX-wDTsa-1" value="Service 1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="429.96" width="62.5" height="66.07" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRqDhPdp6zeXX-wDTsa-2" value="Service 2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="585" width="62.5" height="66.07" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRqDhPdp6zeXX-wDTsa-3" value="Service 3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.human_intelligence_tasks_hit;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="750" width="62.5" height="66.07" as="geometry" />
+        </mxCell>
+        <mxCell id="ar0n1rfbXODkGUHBEx2R-1" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="588.04" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ar0n1rfbXODkGUHBEx2R-2" value="Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="591.0699999999999" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
