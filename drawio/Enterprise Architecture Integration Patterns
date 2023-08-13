@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T17:46:31.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YflH4jWBU030Mxp7euat" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-13T17:54:57.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lH3MZ2pglomEHXrboWzN" version="21.6.6" type="github" pages="4">
   <diagram name="API - Gate Keeper Pattern " id="sYnvoJOgJQ-C6s-tl_db">
     <mxGraphModel dx="772" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,6 +281,14 @@
         <mxCell id="9mE3SQHNP5xuxKoSTbzm-33" value="Encrypted Traffic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="423.7" y="873" width="78" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8KlxY-Qw8nO80Oeg9VfK" name="API - Gateway Offloading Pattern">
+    <mxGraphModel dx="1120" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
