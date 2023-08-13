@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T17:20:19.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="i06Q_qwlbkPpnrST6ZUQ" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-13T17:23:30.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rbpAisQ9sNnM4T5y-new" version="21.6.6" type="github" pages="3">
   <diagram name="API - Gate Keeper Pattern " id="sYnvoJOgJQ-C6s-tl_db">
     <mxGraphModel dx="772" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,14 @@
             <mxPoint x="530" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MX5fWH_w0ak0lz5F721o" name="API - Gateway Routing Pattern">
+    <mxGraphModel dx="1120" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
