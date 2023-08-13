@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T19:02:43.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ShtI89jDgbHoGjeIXbE_" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-13T19:03:08.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xdRwKcS4uMWVlzs97psy" version="21.6.6" type="github" pages="5">
   <diagram name="API - Gate Keeper Pattern " id="sYnvoJOgJQ-C6s-tl_db">
     <mxGraphModel dx="772" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,16 +406,16 @@
           <mxGeometry x="370" y="192" width="40" height="115" as="geometry" />
         </mxCell>
         <mxCell id="8ebuCGQ-_LG1d8rQr9Sq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="297" height="160" as="geometry" />
+          <mxGeometry x="110" y="180" width="237" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8ebuCGQ-_LG1d8rQr9Sq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="428" y="180" width="300" height="160" as="geometry" />
+          <mxGeometry x="428" y="180" width="242" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8ebuCGQ-_LG1d8rQr9Sq-3" value="Internal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="428" y="150" width="300" height="30" as="geometry" />
+          <mxGeometry x="428" y="150" width="242" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ebuCGQ-_LG1d8rQr9Sq-4" value="External / Client facing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="50" y="150" width="297" height="30" as="geometry" />
+          <mxGeometry x="110" y="150" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5ksHb6osx6ax4pqQtI9-1" value="Producer / Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="201" width="100" height="50" as="geometry" />
