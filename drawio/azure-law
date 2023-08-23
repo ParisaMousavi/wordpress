@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T08:01:15.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="FREGXB7ef6lmTfzkCXXc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T08:02:12.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y94BiepYZB37yUbo8C3R" version="21.6.8" type="github">
   <diagram name="Seite-1" id="eqILiQ9mX2arAwk-FK-E">
-    <mxGraphModel>
+    <mxGraphModel dx="1232" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="30vjsFHopeiAe9S2XRZY-1" value="Log Analytics Workspace" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
