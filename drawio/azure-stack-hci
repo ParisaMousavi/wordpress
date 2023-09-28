@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T15:05:22.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2QbNOTrJIfZzE7spffGz" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T15:06:04.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-TygR0t2ICfLETagTZnj" version="22.0.0" type="github">
   <diagram name="Seite-1" id="N1lyFS-hQTXS9tD8ewR3">
     <mxGraphModel dx="1050" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d-9ch-iTmK7Ryplqpefc-1" value="Local Network" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="300" width="510" height="190" as="geometry" />
+          <mxGeometry x="150" y="300" width="790" height="600" as="geometry" />
         </mxCell>
         <mxCell id="d-9ch-iTmK7Ryplqpefc-4" value="Segmentation B" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="410" y="350" width="230" height="120" as="geometry" />
+          <mxGeometry x="410" y="350" width="510" height="530" as="geometry" />
         </mxCell>
         <mxCell id="d-9ch-iTmK7Ryplqpefc-5" value="Segmentation A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="230" height="120" as="geometry" />
