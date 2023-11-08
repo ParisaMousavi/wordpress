@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T20:49:38.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1GEN28nkK0XwOktQE0iY" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T21:09:10.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Kl2pclFBCiS-D0vk17pf" version="22.0.8" type="github" pages="2">
   <diagram name="Seite-1" id="N1lyFS-hQTXS9tD8ewR3">
     <mxGraphModel dx="1050" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,15 +26,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FA_pgTJlekwNiRWUMzzE" name="architecture">
-    <mxGraphModel dx="1050" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j-gftAzYWebtmZb9lxMM-1" value="Management Cluster" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="190" height="250" as="geometry" />
+        <mxCell id="j-gftAzYWebtmZb9lxMM-4" value="Cluster A" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="230" height="670" as="geometry" />
         </mxCell>
         <mxCell id="j-gftAzYWebtmZb9lxMM-2" value="Host 13" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="200" width="190" height="250" as="geometry" />
+          <mxGeometry x="510" y="430" width="190" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j-gftAzYWebtmZb9lxMM-3" value="Host 01" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="190" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j-gftAzYWebtmZb9lxMM-5" value="Management Cluster" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="230" height="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
