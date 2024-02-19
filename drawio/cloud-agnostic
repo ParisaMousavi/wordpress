@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T20:36:50.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="waEDKef04cNjD28xzPQy" version="23.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-19T20:37:13.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QEdEDcROg4Q0uxhgtF4x" version="23.1.4" type="github" pages="2">
   <diagram name="application-structure" id="2PrPgl2BS5pSJ6LkzGno">
     <mxGraphModel dx="2248" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arrowWidth=0.28163866614175415;arrowSize=0.11579856872558629;" vertex="1" parent="1">
-          <mxGeometry x="155" y="630" width="36.5" height="283" as="geometry" />
+          <mxGeometry x="32" y="607" width="36.5" height="283" as="geometry" />
         </mxCell>
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-1" value="&lt;h1&gt;Cloud agnostic application&lt;/h1&gt;&lt;p&gt;Each application&#39;s code can be deployed with minimum adjustments on different cloud platforms can be considered agnostic.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="110" width="440" height="100" as="geometry" />
@@ -190,16 +190,16 @@
           <mxGeometry x="30" y="430" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-7" value="cloud.agnostic.logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="670" width="130" height="60" as="geometry" />
+          <mxGeometry x="30" y="647" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-8" value="cloud.agnostic.domain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="740" width="155" height="60" as="geometry" />
+          <mxGeometry x="30" y="717" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-9" value="cloud.agnostic.DatabaseContext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="810" width="200" height="60" as="geometry" />
+          <mxGeometry x="30" y="787" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="153.25" y="623" width="40" height="40" as="geometry" />
+          <mxGeometry x="30.25" y="600" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
