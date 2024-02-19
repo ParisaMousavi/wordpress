@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T20:14:27.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Sn96fLIxpXwjRlp_jWul" version="23.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-19T20:15:11.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7jC9k-6zWlMKrepv4EV3" version="23.1.4" type="github" pages="2">
   <diagram name="application-structure" id="2PrPgl2BS5pSJ6LkzGno">
     <mxGraphModel dx="2248" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,6 +170,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-1" value="&lt;h1&gt;Cloud agnostic application&lt;/h1&gt;&lt;p&gt;Each application&#39;s code can be deployed with minimum adjustments on different cloud platforms can be considered agnostic.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="110" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-2" value="Source code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-3" value="AWS DynamoDB" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
+          <mxGeometry x="336" y="240" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
