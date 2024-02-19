@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T20:11:39.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="c4kRFREAb8jC7jUG3lzn" version="23.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-19T20:14:14.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="z2lnSsUtAS37eJ6HDsFE" version="23.1.4" type="github" pages="2">
   <diagram name="application-structure" id="2PrPgl2BS5pSJ6LkzGno">
     <mxGraphModel dx="2248" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,10 +164,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QrCHXUKzr4TUyQTDQrrG" name="cloud-agnostic-application">
-    <mxGraphModel dx="1421" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="812" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZNiBkUI2Qo0HNWkFZRIZ-1" value="&lt;h1&gt;Cloud agnostic application&lt;/h1&gt;&lt;p&gt;Each application&#39;s code can be deployed with minimum adjustments on different cloud platforms can be considered agnostic.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="440" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
