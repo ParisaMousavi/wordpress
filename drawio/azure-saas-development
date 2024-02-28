@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T12:25:27.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4pigeWbvD2oIIGJJRqxe" version="23.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:44:11.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wMM4in4tfh2TsXNz7-Dg" version="23.1.7" type="github" pages="6">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
     <mxGraphModel dx="2358" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -331,6 +331,17 @@
         </mxCell>
         <mxCell id="qWrc9H9TyJ-TpQ8JGKVP-1" value="Connectivity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="465" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ef0GGfl8HCzhC8mVho3T" name="silo">
+    <mxGraphModel dx="2358" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kM6PfHYWThdKUbVFGfvy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="400" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
