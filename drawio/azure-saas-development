@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T10:10:53.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E7xF549TIDrHPxl8ZOSC" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:11:39.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="m82d0sXH8MboYP4M91j1" version="23.1.5" type="github" pages="3">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
     <mxGraphModel dx="2358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,6 +127,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s_kq5raJXefWPnmN1IEI-1" value="Virtual Network" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="175" y="200" width="555" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="YMGTFuYmTMNvMIP80TAc-1" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="230" height="130" as="geometry" />
         </mxCell>
