@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T09:48:29.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qlEP4kZldenU03gZbwTB" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:06:32.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eRbbYqRDlrmf0YdIAZx0" version="23.1.5" type="github" pages="3">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
     <mxGraphModel dx="2358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5In0reNLaJysnNxf9yMI" name="composing">
-    <mxGraphModel dx="1221" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,6 +118,26 @@
         </mxCell>
         <mxCell id="_dwpZgD5D8m1AQHu8zJs-9" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Parameters&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Domain requirements&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Business goals&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Time to market&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Legacy considerations&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;align=left;spacingLeft=30;spacingTop=30;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="324" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U-84p84hMyOhvalBmVUb" name="saas-parts">
+    <mxGraphModel dx="1221" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YMGTFuYmTMNvMIP80TAc-1" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GjSaaO4H2cmqw1hZig5Q-1" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cmfOijxhPX9q6nyqtDiY-1" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cmfOijxhPX9q6nyqtDiY-2" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
