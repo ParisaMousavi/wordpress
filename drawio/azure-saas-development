@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T10:12:51.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uJdPp2KcLRdcm3ttvAse" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:15:57.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hAeU07n7Mmj91gaC5LBj" version="23.1.5" type="github" pages="3">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
     <mxGraphModel dx="2358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="U-84p84hMyOhvalBmVUb" name="saas-parts-1">
+  <diagram id="U-84p84hMyOhvalBmVUb" name="saas-control-plane">
     <mxGraphModel dx="1221" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
