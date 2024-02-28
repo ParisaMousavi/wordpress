@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T10:08:33.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="O-B7fh7QfXnT07dXy03g" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:10:53.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E7xF549TIDrHPxl8ZOSC" version="23.1.5" type="github" pages="3">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
     <mxGraphModel dx="2358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,19 +131,25 @@
           <mxGeometry x="210" y="260" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cmfOijxhPX9q6nyqtDiY-1" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="210" y="410" width="230" height="110" as="geometry" />
+          <mxGeometry x="210" y="410" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cmfOijxhPX9q6nyqtDiY-2" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="460" y="410" width="230" height="110" as="geometry" />
+          <mxGeometry x="460" y="410" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="jCmg_n-fCASMe7WEtefU-1" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
-          <mxGeometry x="230" y="305" width="60" height="60" as="geometry" />
+          <mxGeometry x="295" y="295" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCmg_n-fCASMe7WEtefU-2" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="jCmg_n-fCASMe7WEtefU-3" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
-          <mxGeometry x="480" y="305" width="60" height="60" as="geometry" />
+          <mxGeometry x="545" y="295" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCmg_n-fCASMe7WEtefU-4" value="VMs Auto scaling group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="291" y="451" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="jCmg_n-fCASMe7WEtefU-5" value="VMs Auto scaling group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="545" y="451" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
