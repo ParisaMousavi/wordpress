@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T09:37:19.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PvO4id45Y6KvVnGqQzTl" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-28T09:38:22.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Lv0UioX8RPj2lS7nrJ0c" version="23.1.5" type="github" pages="2">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
     <mxGraphModel dx="2358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,14 +92,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_dwpZgD5D8m1AQHu8zJs-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_dwpZgD5D8m1AQHu8zJs-1" target="_dwpZgD5D8m1AQHu8zJs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_dwpZgD5D8m1AQHu8zJs-1" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Management&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Metrics&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Analytics&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Billing&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Provisioning&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;align=left;spacingLeft=30;spacingTop=30;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_dwpZgD5D8m1AQHu8zJs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_dwpZgD5D8m1AQHu8zJs-2" target="_dwpZgD5D8m1AQHu8zJs-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_dwpZgD5D8m1AQHu8zJs-2" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Application&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Isolation&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Partitioning&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Deployment&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Routing&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;align=left;spacingLeft=30;spacingTop=30;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="230" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="_dwpZgD5D8m1AQHu8zJs-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_dwpZgD5D8m1AQHu8zJs-3" target="_dwpZgD5D8m1AQHu8zJs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_dwpZgD5D8m1AQHu8zJs-3" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Tenancy&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Identity&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Onboarding&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Tenant&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Tiering&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;align=left;spacingLeft=30;spacingTop=30;" vertex="1" parent="1">
           <mxGeometry x="650" y="350" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_dwpZgD5D8m1AQHu8zJs-4" value="Your SaaS application" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="395" y="720" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
