@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T10:15:57.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hAeU07n7Mmj91gaC5LBj" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T11:24:37.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TOd9ec_74qiJdcx_7tYY" version="23.1.7" type="github" pages="4">
   <diagram name="Seite-1" id="WrGaEKqPjcy057mdJGVx">
-    <mxGraphModel dx="2358" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2598" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,37 +123,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U-84p84hMyOhvalBmVUb" name="saas-control-plane">
-    <mxGraphModel dx="1221" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s_kq5raJXefWPnmN1IEI-1" value="Virtual Network" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="s_kq5raJXefWPnmN1IEI-1" value="Virtual Network" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="555" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="YMGTFuYmTMNvMIP80TAc-1" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="YMGTFuYmTMNvMIP80TAc-1" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="75" y="280" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="cmfOijxhPX9q6nyqtDiY-1" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="cmfOijxhPX9q6nyqtDiY-1" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="75" y="430" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="cmfOijxhPX9q6nyqtDiY-2" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="cmfOijxhPX9q6nyqtDiY-2" value="Private Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#60A917;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="325" y="430" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jCmg_n-fCASMe7WEtefU-1" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
+        <mxCell id="jCmg_n-fCASMe7WEtefU-1" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" parent="1" vertex="1">
           <mxGeometry x="160" y="315" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCmg_n-fCASMe7WEtefU-2" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="jCmg_n-fCASMe7WEtefU-2" value="Public Subnet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#E51400;dashed=1;verticalAlign=top;align=center;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="325" y="280" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="jCmg_n-fCASMe7WEtefU-3" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
+        <mxCell id="jCmg_n-fCASMe7WEtefU-3" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" parent="1" vertex="1">
           <mxGeometry x="410" y="315" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCmg_n-fCASMe7WEtefU-4" value="VMs Auto scaling group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+        <mxCell id="jCmg_n-fCASMe7WEtefU-4" value="VMs Auto scaling group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" parent="1" vertex="1">
           <mxGeometry x="156" y="471" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="jCmg_n-fCASMe7WEtefU-5" value="VMs Auto scaling group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+        <mxCell id="jCmg_n-fCASMe7WEtefU-5" value="VMs Auto scaling group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" parent="1" vertex="1">
           <mxGeometry x="410" y="471" width="68" height="68" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="R5HyyjpiXlt0qwhZFzLK" name="saas-application-plane">
+    <mxGraphModel dx="3369" dy="2006" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
