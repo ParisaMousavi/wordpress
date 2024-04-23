@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:09:21.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mAZ0PMD0_jY2Omn9sgtg" version="24.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:10:24.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="a5efm50X5zv8MBCljja4" version="24.0.6" type="github" pages="5">
   <diagram name="Seite-1" id="N1lyFS-hQTXS9tD8ewR3">
     <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
         <mxCell id="gU-X00N5DUZWNZOAJQJI-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="101" y="226" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="gU-X00N5DUZWNZOAJQJI-17" value="Cluster" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-17" value="Cluster A" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gU-X00N5DUZWNZOAJQJI-18" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
@@ -555,7 +555,7 @@
         <mxCell id="gU-X00N5DUZWNZOAJQJI-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="251" y="226" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="gU-X00N5DUZWNZOAJQJI-20" value="Cluster" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-20" value="Cluster B" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gU-X00N5DUZWNZOAJQJI-21" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
@@ -564,8 +564,26 @@
         <mxCell id="gU-X00N5DUZWNZOAJQJI-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="401" y="226" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="gU-X00N5DUZWNZOAJQJI-23" value="Cluster" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-23" value="Cluster C" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-25" value="OU Sales" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-26" value="OU Finance" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-27" value="OU IT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="101" y="516" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-32" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="251" y="516" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="401" y="516" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
