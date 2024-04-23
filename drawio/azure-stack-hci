@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:15:20.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LmScbfFD0YiYVX5zg5BR" version="24.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:17:26.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aBk_wMhweaC35EoxpGJt" version="24.0.6" type="github" pages="5">
   <diagram name="Seite-1" id="N1lyFS-hQTXS9tD8ewR3">
     <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -585,8 +585,25 @@
         <mxCell id="gU-X00N5DUZWNZOAJQJI-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="401" y="516" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-39" value="Cluster ARC Enablement" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gU-X00N5DUZWNZOAJQJI-37" target="gU-X00N5DUZWNZOAJQJI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gU-X00N5DUZWNZOAJQJI-37" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Azure_Arc.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="110" width="69" height="52" as="geometry" />
+          <mxGeometry x="750" y="214" width="69" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-40" value="Computer ARC Enablement" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gU-X00N5DUZWNZOAJQJI-37" target="gU-X00N5DUZWNZOAJQJI-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="240" />
+              <mxPoint x="620" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-42" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Azure_Arc.svg;" vertex="1" parent="1">
+          <mxGeometry x="750" y="504" width="69" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gU-X00N5DUZWNZOAJQJI-43" value="Computer ARC Enablement" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.194;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gU-X00N5DUZWNZOAJQJI-42" target="gU-X00N5DUZWNZOAJQJI-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
