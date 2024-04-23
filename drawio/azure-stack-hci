@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T14:00:54.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pVsns8-PG2CxoaVO_mV_" version="22.1.3" type="device" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:04:52.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ojuPT7RiJgWXa1QTu2kv" version="24.0.6" type="github" pages="5">
   <diagram name="Seite-1" id="N1lyFS-hQTXS9tD8ewR3">
-    <mxGraphModel dx="1208" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TZ6qxPpHXDeFY5JlmpbF" name="lab-architecture">
-    <mxGraphModel dx="1208" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5ao28qArnpmpC-Tl_qpQ" name="Seite-3">
-    <mxGraphModel dx="2035" dy="2359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2736" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,6 +520,14 @@
         <mxCell id="pHLQxbF_WEhK8B2SGjm6-120" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=An4LqlGNisk&amp;amp;list=PLxvjnnGdNX6Pq05RHvFDPRd9qfKZTpx96&quot;&gt;Link&lt;/a&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="akXPRYvmn4_DZRTcGZit" name="customer journey">
+    <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
