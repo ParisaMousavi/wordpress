@@ -218,16 +218,16 @@
           <mxGeometry x="434" y="890" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9yPCPzOhquK3xP-46jW-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="165" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z9yPCPzOhquK3xP-46jW-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="425" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9yPCPzOhquK3xP-46jW-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
-          <mxGeometry x="196.5" y="972" width="57" height="38" as="geometry" />
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-49" value="vNIC&lt;div&gt;172.20.1.4&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="945" width="57" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Z9yPCPzOhquK3xP-46jW-50" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="972" width="57" height="38" as="geometry" />
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-50" value="vNIC&lt;div&gt;172.20.1.5&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+          <mxGeometry x="455.5" y="945" width="57" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
