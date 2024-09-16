@@ -230,7 +230,13 @@
           <mxGeometry x="487.5" y="945" width="57" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Z9yPCPzOhquK3xP-46jW-52" value="Hyper-v Internal Switch 172.20.1.0/24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1040" width="510" height="20" as="geometry" />
+          <mxGeometry x="100" y="1050" width="510" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.311;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z9yPCPzOhquK3xP-46jW-47" target="Z9yPCPzOhquK3xP-46jW-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.816;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z9yPCPzOhquK3xP-46jW-48" target="Z9yPCPzOhquK3xP-46jW-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
