@@ -121,7 +121,7 @@
         <mxCell id="Z9yPCPzOhquK3xP-46jW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="190" width="580" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="PrMp_uTxvwLCZEp9R4T5-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AKS Edge Essentials Cluster&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="PrMp_uTxvwLCZEp9R4T5-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AKS Edge Essentials Cluster (Single Machine)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="740" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PrMp_uTxvwLCZEp9R4T5-2" value="K8s/K3s&lt;div&gt;Linux Worker&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
