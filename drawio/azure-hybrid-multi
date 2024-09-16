@@ -217,6 +217,18 @@
         <mxCell id="Z9yPCPzOhquK3xP-46jW-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logo-s-icon-pack-collection/512/windows-128.png;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="434" y="890" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="165" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="425" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="972" width="57" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9yPCPzOhquK3xP-46jW-50" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="972" width="57" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
