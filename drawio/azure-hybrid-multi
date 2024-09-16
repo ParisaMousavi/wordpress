@@ -173,7 +173,7 @@
           <mxGeometry x="39" y="640" width="740" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z9yPCPzOhquK3xP-46jW-19" value="Hyper-v" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="50" y="700" width="690" height="340" as="geometry" />
+          <mxGeometry x="50" y="700" width="610" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Z9yPCPzOhquK3xP-46jW-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="750" width="250" height="260" as="geometry" />
