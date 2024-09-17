@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LoCQqUg30TJZJnKZ-4Ep" name="aks-ee">
-    <mxGraphModel dx="1230" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,18 @@
         </mxCell>
         <mxCell id="Z9yPCPzOhquK3xP-46jW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.816;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z9yPCPzOhquK3xP-46jW-48" target="Z9yPCPzOhquK3xP-46jW-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I81x76YZ7ThxvRhvkUXb-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" vertex="1" parent="1">
+          <mxGeometry x="80.60000000000002" y="1470" width="58.4" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="I81x76YZ7ThxvRhvkUXb-2" value="Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1540" width="510" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I81x76YZ7ThxvRhvkUXb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.078;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I81x76YZ7ThxvRhvkUXb-1" target="I81x76YZ7ThxvRhvkUXb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I81x76YZ7ThxvRhvkUXb-5" value="Internal Switch 172.16.0.0 /24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1470" width="443" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
