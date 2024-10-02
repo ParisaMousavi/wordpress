@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LoCQqUg30TJZJnKZ-4Ep" name="aks-ee">
-    <mxGraphModel dx="3289" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3781" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,11 +246,11 @@
         <mxCell id="I81x76YZ7ThxvRhvkUXb-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" parent="1" vertex="1">
           <mxGeometry x="103.60000000000002" y="1597" width="58.4" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="I81x76YZ7ThxvRhvkUXb-2" value="Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="I81x76YZ7ThxvRhvkUXb-2" value="MY WLAN Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="93" y="1690" width="697" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I81x76YZ7ThxvRhvkUXb-5" value="Internal Switch on NAT 172.16.0.0 /24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1590" width="1060" height="20" as="geometry" />
+          <mxGeometry x="160" y="1590" width="910" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I81x76YZ7ThxvRhvkUXb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I81x76YZ7ThxvRhvkUXb-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +265,7 @@
             <mxPoint x="334" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I81x76YZ7ThxvRhvkUXb-8" value="External Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="I81x76YZ7ThxvRhvkUXb-8" value="Hyper-v External Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="228" y="1493" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I81x76YZ7ThxvRhvkUXb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I81x76YZ7ThxvRhvkUXb-9" edge="1">
@@ -457,13 +457,13 @@
         <mxCell id="MR-fz6aMhoiWn7pSNxU8-1" value="VM&lt;br&gt;&lt;div&gt;AKS-EE-Node-02&lt;/div&gt;&lt;div&gt;172.16.0.24&lt;br&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=right;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="770" y="1493" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="MR-fz6aMhoiWn7pSNxU8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR-fz6aMhoiWn7pSNxU8-3">
+        <mxCell id="MR-fz6aMhoiWn7pSNxU8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.455;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MR-fz6aMhoiWn7pSNxU8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1024.5" y="1580" as="targetPoint" />
+            <mxPoint x="910" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MR-fz6aMhoiWn7pSNxU8-3" value="External Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1493" width="395" height="20" as="geometry" />
+        <mxCell id="MR-fz6aMhoiWn7pSNxU8-3" value="Hyper-v External Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1493" width="183" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JeJwYclPt4Ulv4WzzV6F-2" value="vNIC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
           <mxGeometry x="302" y="1401" width="36" height="24" as="geometry" />
