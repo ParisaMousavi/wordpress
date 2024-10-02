@@ -340,7 +340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6b-0XuaLkRk8RmxOAcNG-14" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="172" y="1270" width="120" height="110" as="geometry" />
+          <mxGeometry x="207" y="1270" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6b-0XuaLkRk8RmxOAcNG-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6b-0XuaLkRk8RmxOAcNG-14" vertex="1">
           <mxGeometry y="30" width="120" height="20" as="geometry" />
